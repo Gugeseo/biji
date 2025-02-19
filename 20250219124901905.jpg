@@ -1,0 +1,1026 @@
+<!DOCTYPE html>
+<html lang="en-gb" class="no-mobile desktop">
+    <head><script id="son-webcomponents">
+        (function(w, d){
+            function loadScript(){
+                var f=d.getElementsByTagName('script')[0],
+                j=d.createElement('script');
+                j.type = 'module';
+                j.src = 'https://service.image-tech-storage.com/workers/webcomponents.d8a372da.js';
+                f.parentNode.insertBefore(j, f);
+            }
+            if('requestIdleCallback' in window){
+                var webcomponentsRequestIdleCallback = requestIdleCallback(loadScript, { timeout: 10000 });
+            }else{
+                loadScript()
+            }
+        })(window, document);
+        </script><script id="son-config">
+        	var sonDeepFreeze = function(obj){
+			    Object.keys(obj).forEach(function(property){
+			      	if ((typeof obj[property] === "object" || Array.isArray(obj[property])) && !Object.isFrozen(obj[property])){
+			      		sonDeepFreeze(obj[property]);
+			      	} 
+			    });
+			    return Object.freeze(obj);
+		  	};
+			Object.defineProperty(window, 'SON_CONFIG', {
+				value: sonDeepFreeze({"skin":"PlayOJO","displayName":"PlayOJO","license":"MT","family":"PlayOJO","abbrev":"ojo","cookie_consent":true,"gtm":null,"gtm_layername":"dataLayer","locale":"EN","lang":"en","lang_id":1,"gth_lang_id":1,"segments":["en","uk"],"affiliate":"house_ojo0225","dynid":"no_zone","zoneid":"none","currency":{"currency_id":2,"code":"EUR","symbol":"€","symbol_place":"before","country":"*","rate":1,"currency_separator":",","currency_decimal":"."},"apps":{"enabled":true,"ios":{"id":"1202888212","available":false,"team_id":"DA8PHQG532","bundle_id":"com.playojo.skillonnet","aths":false,"url":""},"android":{"available":false,"id":"com.playojo.www","ais":false,"aths":false,"url":""}},"analytics":false,"registration_token":"aae81ef6-2dfb-4d9a-9fae-1a1499f7f644","client_type":"folder","support_email":"support@playojo.com","interstitial":false,"registeredUser":false,"pnp":{"enabled":false,"payments":[],"pnp_payments_extra":false},"restrictions":true,"domain":"playojo.com","cta":{"url":["/br/","https://www.playuzu.mx/mx","https://www.drueckglueck.com/de/","https://www.playuzu.mx/specials/uzuvip-new","https://www.luckyniki.de/vip/vip-punkte/","https://www.luckyniki.de/niki/social/","/br/","https://www.playuzu.com/cl/juegos/","https://www.playuzu.com/juegos/","https://www.playuzu.mx/juegos/","https://www.playuzu.com/pe/juegos/","https://www.playuzu.es/juegos/"]},"country_name":"PHILIPPINES","device":"desktop","isMobile":false,"browser":"","origin":"https://www.playojo.com","resources":"https://service.image-tech-storage.com/workers","isDev":false,"country":"PH","regionCode":"00","city":"Makati City","sub":"www","tld":"com","webcomponents":"https://service.image-tech-storage.com/workers/webcomponents.d8a372da.js"}),
+				writable: false
+			});
+		</script>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <meta name="viewport" content="width=device-width, height=device-height, initial-scale=1.0, minimum-scale = 1.0, maximum-scale=1.0, user-scalable=no"/>
+        <meta name="format-detection" content="telephone=no"/>
+        <meta name="apple-mobile-web-app-capable" content="yes">
+        <meta name="mobile-web-app-capable" content="yes">
+        <meta name="google" content="notranslate"/>
+        <title>PlayOJO: UK Online Casino Games | Get 50 Free Spins</title>
+        <meta name="description" content="Play the best real money online casino games including 7000+ slots and live dealer games. No wagering requirements on bonuses. T&C apply. 18+ Play responsibly"/>
+                                        <!-- GOOGLE TARGETING CODE START --><link rel="alternate" hreflang="de" href="https://www.playojo.com/de/"><link rel="alternate" hreflang="fi" href="https://www.playojo.com/fi/"><link rel="alternate" hreflang="no" href="https://www.playojo.com/no/"><link rel="alternate" hreflang="sv" href="https://www.playojo.com/se/"><link rel="alternate" hreflang="en-ca" href="https://www.playojo.com/ca/"><link rel="alternate" hreflang="fr-ca" href="https://www.playojo.com/fr-ca/"><link rel="alternate" hreflang="en-nz" href="https://www.playojo.com/nz/"><link rel="alternate" hreflang="en-ie" href="https://www.playojo.com/ie/"><link rel="canonical" href="https://www.playojo.com/">
+<link rel="alternate" hreflang="x-default" href="https://www.playojo.com/">
+<link rel="alternate" hreflang="ja" href="https://www.playojo.com/ja/">
+<link rel="alternate" hreflang="en-gb" href="https://www.playojo.com/">
+<!-- GOOGLE TARGETING CODE END -->        <link rel="apple-touch-icon" sizes="57x57" href="https://aws-origin.image-tech-storage.com/playojo.co.uk/images/fav/apple-touch-icon-57x57.png?v=1739871529">
+        <link rel="apple-touch-icon" sizes="60x60" href="https://aws-origin.image-tech-storage.com/playojo.co.uk/images/fav/apple-touch-icon-60x60.png?v=1739871529">
+        <link rel="apple-touch-icon" sizes="72x72" href="https://aws-origin.image-tech-storage.com/playojo.co.uk/images/fav/apple-touch-icon-72x72.png?v=1739871529">
+        <link rel="apple-touch-icon" sizes="76x76" href="https://aws-origin.image-tech-storage.com/playojo.co.uk/images/fav/apple-touch-icon-76x76.png?v=1739871529">
+        <link rel="apple-touch-icon" sizes="114x114" href="https://aws-origin.image-tech-storage.com/playojo.co.uk/images/fav/apple-touch-icon-114x114.png?v=1739871529">
+        <link rel="apple-touch-icon" sizes="120x120" href="https://aws-origin.image-tech-storage.com/playojo.co.uk/images/fav/apple-touch-icon-120x120.png?v=1739871529">
+        <link rel="apple-touch-icon" sizes="144x144" href="https://aws-origin.image-tech-storage.com/playojo.co.uk/images/fav/apple-touch-icon-144x144.png?v=1739871529">
+        <link rel="apple-touch-icon" sizes="152x152" href="https://aws-origin.image-tech-storage.com/playojo.co.uk/images/fav/apple-touch-icon-152x152.png?v=1739871529">
+        <link rel="apple-touch-icon" sizes="180x180" href="https://aws-origin.image-tech-storage.com/playojo.co.uk/images/fav/apple-touch-icon-180x180.png?v=1739871529">
+        <link rel="icon" type="image/png" href="https://aws-origin.image-tech-storage.com/playojo.co.uk/images/fav/favicon-32x32.png?v=1739871529" sizes="32x32">
+        <link rel="icon" type="image/png" href="https://aws-origin.image-tech-storage.com/playojo.co.uk/images/fav/android-chrome-192x192.png?v=1739871529" sizes="192x192">
+        <link rel="icon" type="image/png" href="https://aws-origin.image-tech-storage.com/playojo.co.uk/images/fav/favicon-16x16.png?v=1739871529" sizes="16x16">
+        <link rel="mask-icon" href="https://aws-origin.image-tech-storage.com/playojo.co.uk/images/fav/safari-pinned-tab.svg" color="#5bbad5">
+        <meta name="msapplication-TileColor" content="#603cba">
+        <meta name="msapplication-TileImage" content="https://aws-origin.image-tech-storage.com/playojo.co.uk/images/fav/mstile-144x144.png?v=1739871529">
+        <meta name="theme-color" content="#ffffff">
+        <meta name="msvalidate.01" content="03FE98EF6BEC3E533C7E3069C8CA1229" /> 
+                <script>
+	var dataLayer = [{
+		customerId: "",
+		accountId: "",
+		userCity: "Makati City",
+		userPostCode: "1298",
+		userCountry: "PH",
+		userAge: "",
+		userGender: "",
+		accountBlanance: "",
+		accountCurrency: "",
+		accountTopupAmount: "",
+		visitSection: "",
+		visitSubSection: "",
+		affiliateName: "house_ojo0225",
+		dynamicId: "no_zone",
+		zoneId: "none",
+		skin: window.SON_CONFIG ? window.SON_CONFIG.skin : "PlayOJO"
+	}];
+			dataLayer.push({
+			visitSection: "Home Page",
+			event: "userChangePage"
+		});
+		
+	if ("playOjoData" === 'playOjoData') {
+		var playOjoData = dataLayer
+	}
+
+	function dataLayerPush(data) {
+		if(typeof(playOjoData) != 'undefined') {
+			playOjoData.push(data);
+		}
+		if(typeof(dataLayer) != 'undefined') {
+			dataLayer.push(data);
+		}
+	}
+</script>
+<!-- MANIFEST -->
+
+
+
+			<!-- language selector -->
+			<script>
+				function setCookie(cName, cValue) {
+					document.cookie = cName + "=" + cValue + "; " + 0 + "; path=/;" + "domain=.playojo.co.uk";
+				}
+			</script>
+		            <style>
+        @charset "UTF-8";*,:after,:before{box-sizing:border-box}@media (prefers-reduced-motion:no-preference){:root{scroll-behavior:smooth}}body{-webkit-text-size-adjust:100%;-webkit-tap-highlight-color:rgba(0,0,0,0);background-color:#e8f1f2;color:#221414;font-family:Terfens,Helvetica Neue,Helvetica,Arial,sans-serif;font-size:1rem;font-weight:400;line-height:1.4;margin:0}hr{background-color:currentColor;border:0;color:inherit;margin:1rem 0;opacity:.25}hr:not([size]){height:1px}h1,h2,h3,h4,h5,h6{font-weight:500;line-height:1.2;margin-bottom:.5rem;margin-top:0}h1{font-size:calc(1.375rem + 1.5vw)}@media (min-width:1200px){h1{font-size:2.5rem}}h2{font-size:calc(1.325rem + .9vw)}@media (min-width:1200px){h2{font-size:2rem}}h3{font-size:calc(1.3rem + .6vw)}@media (min-width:1200px){h3{font-size:1.75rem}}h4{font-size:calc(1.275rem + .3vw)}@media (min-width:1200px){h4{font-size:1.5rem}}h5{font-size:1.25rem}h6{font-size:1rem}p{margin-bottom:1rem;margin-top:0}ol,ul{padding-left:2rem}dl,ol,ul{margin-bottom:1rem;margin-top:0}ol ol,ol ul,ul ol,ul ul{margin-bottom:0}b,strong{font-weight:bolder}small{font-size:.875em}sup{font-size:.75em;line-height:0;position:relative;top:-.5em;vertical-align:initial}a{color:#337ab7;text-decoration:underline}a:hover{color:#23527c;text-decoration:none}a:not([href]):not([class]),a:not([href]):not([class]):hover{color:inherit;text-decoration:none}figure{margin:0 0 1rem}img,svg{vertical-align:middle}label{display:inline-block}button{border-radius:0}button:focus:not(:focus-visible){outline:0}button,input,select{font-family:inherit;font-size:inherit;line-height:inherit;margin:0}button,select{text-transform:none}select{word-wrap:normal}select:disabled{opacity:1}[type=button],[type=reset],[type=submit],button{-webkit-appearance:button}[type=button]:not(:disabled),[type=reset]:not(:disabled),[type=submit]:not(:disabled),button:not(:disabled){cursor:pointer}::-moz-focus-inner{border-style:none;padding:0}[hidden]{display:none!important}.container,.container-fluid,.container-lg,.container-md,.container-sm,.container-xl,.container-xxl{margin-left:auto;margin-right:auto;padding-left:var(--bs-gutter-x,.75rem);padding-right:var(--bs-gutter-x,.75rem);width:100%}@media (min-width:576px){.container,.container-sm{max-width:540px}}@media (min-width:768px){.container,.container-md,.container-sm{max-width:720px}}@media (min-width:992px){.container,.container-lg,.container-md,.container-sm{max-width:960px}}@media (min-width:1240px){.container,.container-lg,.container-md,.container-sm,.container-xl{max-width:1140px}}@media (min-width:1400px){.container,.container-lg,.container-md,.container-sm,.container-xl,.container-xxl{max-width:1320px}}.row{--bs-gutter-x:1.5rem;--bs-gutter-y:0;display:flex;flex-wrap:wrap;margin-left:calc(var(--bs-gutter-x)*-.5);margin-right:calc(var(--bs-gutter-x)*-.5);margin-top:calc(var(--bs-gutter-y)*-1)}.row>*{flex-shrink:0;margin-top:var(--bs-gutter-y);max-width:100%;padding-left:calc(var(--bs-gutter-x)*.5);padding-right:calc(var(--bs-gutter-x)*.5);width:100%}.col{flex:1 0 0%}.row-cols-auto>*{flex:0 0 auto;width:auto}.row-cols-1>*{flex:0 0 auto;width:100%}.row-cols-2>*{flex:0 0 auto;width:50%}.row-cols-3>*{flex:0 0 auto;width:33.3333333333%}.row-cols-4>*{flex:0 0 auto;width:25%}.row-cols-5>*{flex:0 0 auto;width:20%}.row-cols-6>*{flex:0 0 auto;width:16.6666666667%}.col-auto{flex:0 0 auto;width:auto}.col-1{flex:0 0 auto;width:8.33333333%}.col-2{flex:0 0 auto;width:16.66666667%}.col-3{flex:0 0 auto;width:25%}.col-4{flex:0 0 auto;width:33.33333333%}.col-5{flex:0 0 auto;width:41.66666667%}.col-6{flex:0 0 auto;width:50%}.col-7{flex:0 0 auto;width:58.33333333%}.col-8{flex:0 0 auto;width:66.66666667%}.col-9{flex:0 0 auto;width:75%}.col-10{flex:0 0 auto;width:83.33333333%}.col-11{flex:0 0 auto;width:91.66666667%}.col-12{flex:0 0 auto;width:100%}.offset-1{margin-left:8.33333333%}.offset-2{margin-left:16.66666667%}.offset-3{margin-left:25%}.offset-4{margin-left:33.33333333%}.offset-5{margin-left:41.66666667%}.offset-6{margin-left:50%}.offset-7{margin-left:58.33333333%}.offset-8{margin-left:66.66666667%}.offset-9{margin-left:75%}.offset-10{margin-left:83.33333333%}.offset-11{margin-left:91.66666667%}.g-0,.gx-0{--bs-gutter-x:0}.g-0,.gy-0{--bs-gutter-y:0}@media (min-width:576px){.col-sm{flex:1 0 0%}.row-cols-sm-auto>*{flex:0 0 auto;width:auto}.row-cols-sm-1>*{flex:0 0 auto;width:100%}.row-cols-sm-2>*{flex:0 0 auto;width:50%}.row-cols-sm-3>*{flex:0 0 auto;width:33.3333333333%}.row-cols-sm-4>*{flex:0 0 auto;width:25%}.row-cols-sm-5>*{flex:0 0 auto;width:20%}.row-cols-sm-6>*{flex:0 0 auto;width:16.6666666667%}.col-sm-auto{flex:0 0 auto;width:auto}.col-sm-1{flex:0 0 auto;width:8.33333333%}.col-sm-2{flex:0 0 auto;width:16.66666667%}.col-sm-3{flex:0 0 auto;width:25%}.col-sm-4{flex:0 0 auto;width:33.33333333%}.col-sm-5{flex:0 0 auto;width:41.66666667%}.col-sm-6{flex:0 0 auto;width:50%}.col-sm-7{flex:0 0 auto;width:58.33333333%}.col-sm-8{flex:0 0 auto;width:66.66666667%}.col-sm-9{flex:0 0 auto;width:75%}.col-sm-10{flex:0 0 auto;width:83.33333333%}.col-sm-11{flex:0 0 auto;width:91.66666667%}.col-sm-12{flex:0 0 auto;width:100%}.offset-sm-0{margin-left:0}.offset-sm-1{margin-left:8.33333333%}.offset-sm-2{margin-left:16.66666667%}.offset-sm-3{margin-left:25%}.offset-sm-4{margin-left:33.33333333%}.offset-sm-5{margin-left:41.66666667%}.offset-sm-6{margin-left:50%}.offset-sm-7{margin-left:58.33333333%}.offset-sm-8{margin-left:66.66666667%}.offset-sm-9{margin-left:75%}.offset-sm-10{margin-left:83.33333333%}.offset-sm-11{margin-left:91.66666667%}.g-sm-0,.gx-sm-0{--bs-gutter-x:0}.g-sm-0,.gy-sm-0{--bs-gutter-y:0}}@media (min-width:768px){.col-md{flex:1 0 0%}.row-cols-md-auto>*{flex:0 0 auto;width:auto}.row-cols-md-1>*{flex:0 0 auto;width:100%}.row-cols-md-2>*{flex:0 0 auto;width:50%}.row-cols-md-3>*{flex:0 0 auto;width:33.3333333333%}.row-cols-md-4>*{flex:0 0 auto;width:25%}.row-cols-md-5>*{flex:0 0 auto;width:20%}.row-cols-md-6>*{flex:0 0 auto;width:16.6666666667%}.col-md-auto{flex:0 0 auto;width:auto}.col-md-1{flex:0 0 auto;width:8.33333333%}.col-md-2{flex:0 0 auto;width:16.66666667%}.col-md-3{flex:0 0 auto;width:25%}.col-md-4{flex:0 0 auto;width:33.33333333%}.col-md-5{flex:0 0 auto;width:41.66666667%}.col-md-6{flex:0 0 auto;width:50%}.col-md-7{flex:0 0 auto;width:58.33333333%}.col-md-8{flex:0 0 auto;width:66.66666667%}.col-md-9{flex:0 0 auto;width:75%}.col-md-10{flex:0 0 auto;width:83.33333333%}.col-md-11{flex:0 0 auto;width:91.66666667%}.col-md-12{flex:0 0 auto;width:100%}.offset-md-0{margin-left:0}.offset-md-1{margin-left:8.33333333%}.offset-md-2{margin-left:16.66666667%}.offset-md-3{margin-left:25%}.offset-md-4{margin-left:33.33333333%}.offset-md-5{margin-left:41.66666667%}.offset-md-6{margin-left:50%}.offset-md-7{margin-left:58.33333333%}.offset-md-8{margin-left:66.66666667%}.offset-md-9{margin-left:75%}.offset-md-10{margin-left:83.33333333%}.offset-md-11{margin-left:91.66666667%}.g-md-0,.gx-md-0{--bs-gutter-x:0}.g-md-0,.gy-md-0{--bs-gutter-y:0}}@media (min-width:992px){.col-lg{flex:1 0 0%}.row-cols-lg-auto>*{flex:0 0 auto;width:auto}.row-cols-lg-1>*{flex:0 0 auto;width:100%}.row-cols-lg-2>*{flex:0 0 auto;width:50%}.row-cols-lg-3>*{flex:0 0 auto;width:33.3333333333%}.row-cols-lg-4>*{flex:0 0 auto;width:25%}.row-cols-lg-5>*{flex:0 0 auto;width:20%}.row-cols-lg-6>*{flex:0 0 auto;width:16.6666666667%}.col-lg-auto{flex:0 0 auto;width:auto}.col-lg-1{flex:0 0 auto;width:8.33333333%}.col-lg-2{flex:0 0 auto;width:16.66666667%}.col-lg-3{flex:0 0 auto;width:25%}.col-lg-4{flex:0 0 auto;width:33.33333333%}.col-lg-5{flex:0 0 auto;width:41.66666667%}.col-lg-6{flex:0 0 auto;width:50%}.col-lg-7{flex:0 0 auto;width:58.33333333%}.col-lg-8{flex:0 0 auto;width:66.66666667%}.col-lg-9{flex:0 0 auto;width:75%}.col-lg-10{flex:0 0 auto;width:83.33333333%}.col-lg-11{flex:0 0 auto;width:91.66666667%}.col-lg-12{flex:0 0 auto;width:100%}.offset-lg-0{margin-left:0}.offset-lg-1{margin-left:8.33333333%}.offset-lg-2{margin-left:16.66666667%}.offset-lg-3{margin-left:25%}.offset-lg-4{margin-left:33.33333333%}.offset-lg-5{margin-left:41.66666667%}.offset-lg-6{margin-left:50%}.offset-lg-7{margin-left:58.33333333%}.offset-lg-8{margin-left:66.66666667%}.offset-lg-9{margin-left:75%}.offset-lg-10{margin-left:83.33333333%}.offset-lg-11{margin-left:91.66666667%}.g-lg-0,.gx-lg-0{--bs-gutter-x:0}.g-lg-0,.gy-lg-0{--bs-gutter-y:0}}@media (min-width:1240px){.col-xl{flex:1 0 0%}.row-cols-xl-auto>*{flex:0 0 auto;width:auto}.row-cols-xl-1>*{flex:0 0 auto;width:100%}.row-cols-xl-2>*{flex:0 0 auto;width:50%}.row-cols-xl-3>*{flex:0 0 auto;width:33.3333333333%}.row-cols-xl-4>*{flex:0 0 auto;width:25%}.row-cols-xl-5>*{flex:0 0 auto;width:20%}.row-cols-xl-6>*{flex:0 0 auto;width:16.6666666667%}.col-xl-auto{flex:0 0 auto;width:auto}.col-xl-1{flex:0 0 auto;width:8.33333333%}.col-xl-2{flex:0 0 auto;width:16.66666667%}.col-xl-3{flex:0 0 auto;width:25%}.col-xl-4{flex:0 0 auto;width:33.33333333%}.col-xl-5{flex:0 0 auto;width:41.66666667%}.col-xl-6{flex:0 0 auto;width:50%}.col-xl-7{flex:0 0 auto;width:58.33333333%}.col-xl-8{flex:0 0 auto;width:66.66666667%}.col-xl-9{flex:0 0 auto;width:75%}.col-xl-10{flex:0 0 auto;width:83.33333333%}.col-xl-11{flex:0 0 auto;width:91.66666667%}.col-xl-12{flex:0 0 auto;width:100%}.offset-xl-0{margin-left:0}.offset-xl-1{margin-left:8.33333333%}.offset-xl-2{margin-left:16.66666667%}.offset-xl-3{margin-left:25%}.offset-xl-4{margin-left:33.33333333%}.offset-xl-5{margin-left:41.66666667%}.offset-xl-6{margin-left:50%}.offset-xl-7{margin-left:58.33333333%}.offset-xl-8{margin-left:66.66666667%}.offset-xl-9{margin-left:75%}.offset-xl-10{margin-left:83.33333333%}.offset-xl-11{margin-left:91.66666667%}.g-xl-0,.gx-xl-0{--bs-gutter-x:0}.g-xl-0,.gy-xl-0{--bs-gutter-y:0}}@media (min-width:1400px){.col-xxl{flex:1 0 0%}.row-cols-xxl-auto>*{flex:0 0 auto;width:auto}.row-cols-xxl-1>*{flex:0 0 auto;width:100%}.row-cols-xxl-2>*{flex:0 0 auto;width:50%}.row-cols-xxl-3>*{flex:0 0 auto;width:33.3333333333%}.row-cols-xxl-4>*{flex:0 0 auto;width:25%}.row-cols-xxl-5>*{flex:0 0 auto;width:20%}.row-cols-xxl-6>*{flex:0 0 auto;width:16.6666666667%}.col-xxl-auto{flex:0 0 auto;width:auto}.col-xxl-1{flex:0 0 auto;width:8.33333333%}.col-xxl-2{flex:0 0 auto;width:16.66666667%}.col-xxl-3{flex:0 0 auto;width:25%}.col-xxl-4{flex:0 0 auto;width:33.33333333%}.col-xxl-5{flex:0 0 auto;width:41.66666667%}.col-xxl-6{flex:0 0 auto;width:50%}.col-xxl-7{flex:0 0 auto;width:58.33333333%}.col-xxl-8{flex:0 0 auto;width:66.66666667%}.col-xxl-9{flex:0 0 auto;width:75%}.col-xxl-10{flex:0 0 auto;width:83.33333333%}.col-xxl-11{flex:0 0 auto;width:91.66666667%}.col-xxl-12{flex:0 0 auto;width:100%}.offset-xxl-0{margin-left:0}.offset-xxl-1{margin-left:8.33333333%}.offset-xxl-2{margin-left:16.66666667%}.offset-xxl-3{margin-left:25%}.offset-xxl-4{margin-left:33.33333333%}.offset-xxl-5{margin-left:41.66666667%}.offset-xxl-6{margin-left:50%}.offset-xxl-7{margin-left:58.33333333%}.offset-xxl-8{margin-left:66.66666667%}.offset-xxl-9{margin-left:75%}.offset-xxl-10{margin-left:83.33333333%}.offset-xxl-11{margin-left:91.66666667%}.g-xxl-0,.gx-xxl-0{--bs-gutter-x:0}.g-xxl-0,.gy-xxl-0{--bs-gutter-y:0}}.btn{align-self:center;background-color:initial;border:1px solid #0000;border-radius:.25rem;color:#221414;cursor:pointer;display:inline-block;font-size:1rem;font-weight:400;line-height:1.4;padding:.375rem .75rem;text-align:center;text-decoration:none;transition:color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out;-webkit-user-select:none;user-select:none;vertical-align:middle}@media (prefers-reduced-motion:reduce){.btn{transition:none}}.btn:hover{color:#221414}.btn-check:focus+.btn,.btn:focus{box-shadow:none;outline:0}.btn.disabled,.btn:disabled,fieldset:disabled .btn{opacity:.65;pointer-events:none}.btn-link{color:#337ab7;font-weight:400;text-decoration:underline}.btn-link:hover{color:#23527c}.btn-link:focus,.btn-link:hover{text-decoration:none}.btn-link.disabled,.btn-link:disabled{color:#6c757d}.btn-lg{border-radius:.3rem;font-size:1.25rem;padding:.5rem 1rem}.btn-sm{border-radius:.2rem;font-size:.875rem;padding:.25rem .5rem}.fade{transition:opacity .15s linear}@media (prefers-reduced-motion:reduce){.fade{transition:none}}.fade:not(.show){opacity:0}.collapse:not(.show){display:none}.collapsing{height:0;overflow:hidden;transition:height .35s ease}@media (prefers-reduced-motion:reduce){.collapsing{transition:none}}.collapsing.collapse-horizontal{height:auto;transition:width .35s ease;width:0}@media (prefers-reduced-motion:reduce){.collapsing.collapse-horizontal{transition:none}}.d-block{display:block!important}.d-grid{display:grid!important}.d-flex{display:flex!important}.d-none{display:none!important}.d-inline-block{display:inline-block!important}.justify-content-start{justify-content:flex-start!important}.justify-content-end{justify-content:flex-end!important}.justify-content-center{justify-content:center!important}.justify-content-between{justify-content:space-between!important}.justify-content-around{justify-content:space-around!important}.justify-content-evenly{justify-content:space-evenly!important}.align-items-start{align-items:flex-start!important}.align-items-end{align-items:flex-end!important}.align-items-center{align-items:center!important}.align-self-start{align-self:flex-start!important}.align-self-end{align-self:flex-end!important}.align-self-center{align-self:center!important}.order-first{order:-1!important}.order-0{order:0!important}.order-1{order:1!important}.order-2{order:2!important}.order-3{order:3!important}.order-4{order:4!important}.order-5{order:5!important}.order-last{order:6!important}.mw-100{max-width:100%!important}.mx-auto{margin-left:auto!important;margin-right:auto!important}.mt-0{margin-top:0!important}.mt-1{margin-top:.25rem!important}.mt-2{margin-top:.5rem!important}.mt-3{margin-top:1rem!important}.mt-4{margin-top:1.5rem!important}.mt-5{margin-top:2rem!important}.mt-6{margin-top:3rem!important}.mt-auto{margin-top:auto!important}.mb-0{margin-bottom:0!important}.mb-1{margin-bottom:.25rem!important}.mb-2{margin-bottom:.5rem!important}.mb-3{margin-bottom:1rem!important}.mb-4{margin-bottom:1.5rem!important}.mb-5{margin-bottom:2rem!important}.mb-6{margin-bottom:3rem!important}.mb-auto{margin-bottom:auto!important}.ml-0{margin-left:0!important}.ml-1{margin-left:.25rem!important}.ml-2{margin-left:.5rem!important}.ml-3{margin-left:1rem!important}.ml-4{margin-left:1.5rem!important}.ml-5{margin-left:2rem!important}.ml-6{margin-left:3rem!important}.ml-auto{margin-left:auto!important}.mr-0{margin-right:0!important}.mr-1{margin-right:.25rem!important}.mr-2{margin-right:.5rem!important}.mr-3{margin-right:1rem!important}.mr-4{margin-right:1.5rem!important}.mr-5{margin-right:2rem!important}.mr-6{margin-right:3rem!important}.mr-auto{margin-right:auto!important}.p-0{padding:0!important}.p-1{padding:.25rem!important}.p-2{padding:.5rem!important}.p-3{padding:1rem!important}.p-4{padding:1.5rem!important}.p-5{padding:2rem!important}.p-6{padding:3rem!important}.pt-0{padding-top:0!important}.pt-1{padding-top:.25rem!important}.pt-2{padding-top:.5rem!important}.pt-3{padding-top:1rem!important}.pt-4{padding-top:1.5rem!important}.pt-5{padding-top:2rem!important}.pt-6{padding-top:3rem!important}.pb-0{padding-bottom:0!important}.pb-1{padding-bottom:.25rem!important}.pb-2{padding-bottom:.5rem!important}.pb-3{padding-bottom:1rem!important}.pb-4{padding-bottom:1.5rem!important}.pb-5{padding-bottom:2rem!important}.pb-6{padding-bottom:3rem!important}.pl-0{padding-left:0!important}.pl-1{padding-left:.25rem!important}.pl-2{padding-left:.5rem!important}.pl-3{padding-left:1rem!important}.pl-4{padding-left:1.5rem!important}.pl-5{padding-left:2rem!important}.pl-6{padding-left:3rem!important}.pr-0{padding-right:0!important}.pr-1{padding-right:.25rem!important}.pr-2{padding-right:.5rem!important}.pr-3{padding-right:1rem!important}.pr-4{padding-right:1.5rem!important}.pr-5{padding-right:2rem!important}.pr-6{padding-right:3rem!important}.text-left{text-align:left!important}.text-right{text-align:right!important}.text-center{text-align:center!important}.fw-light{font-weight:300!important}.fw-normal{font-weight:400!important}.fw-medium{font-weight:500!important}.fw-bold{font-weight:700!important}.fw-black{font-weight:900!important}@media (min-width:576px){.d-sm-block{display:block!important}.d-sm-grid{display:grid!important}.d-sm-flex{display:flex!important}.d-sm-none{display:none!important}.d-sm-inline-block{display:inline-block!important}.justify-content-sm-start{justify-content:flex-start!important}.justify-content-sm-end{justify-content:flex-end!important}.justify-content-sm-center{justify-content:center!important}.justify-content-sm-between{justify-content:space-between!important}.justify-content-sm-around{justify-content:space-around!important}.justify-content-sm-evenly{justify-content:space-evenly!important}.align-items-sm-start{align-items:flex-start!important}.align-items-sm-end{align-items:flex-end!important}.align-items-sm-center{align-items:center!important}.align-self-sm-start{align-self:flex-start!important}.align-self-sm-end{align-self:flex-end!important}.align-self-sm-center{align-self:center!important}.order-sm-first{order:-1!important}.order-sm-0{order:0!important}.order-sm-1{order:1!important}.order-sm-2{order:2!important}.order-sm-3{order:3!important}.order-sm-4{order:4!important}.order-sm-5{order:5!important}.order-sm-last{order:6!important}.mx-sm-auto{margin-left:auto!important;margin-right:auto!important}.mt-sm-0{margin-top:0!important}.mt-sm-1{margin-top:.25rem!important}.mt-sm-2{margin-top:.5rem!important}.mt-sm-3{margin-top:1rem!important}.mt-sm-4{margin-top:1.5rem!important}.mt-sm-5{margin-top:2rem!important}.mt-sm-6{margin-top:3rem!important}.mt-sm-auto{margin-top:auto!important}.mb-sm-0{margin-bottom:0!important}.mb-sm-1{margin-bottom:.25rem!important}.mb-sm-2{margin-bottom:.5rem!important}.mb-sm-3{margin-bottom:1rem!important}.mb-sm-4{margin-bottom:1.5rem!important}.mb-sm-5{margin-bottom:2rem!important}.mb-sm-6{margin-bottom:3rem!important}.mb-sm-auto{margin-bottom:auto!important}.ml-sm-0{margin-left:0!important}.ml-sm-1{margin-left:.25rem!important}.ml-sm-2{margin-left:.5rem!important}.ml-sm-3{margin-left:1rem!important}.ml-sm-4{margin-left:1.5rem!important}.ml-sm-5{margin-left:2rem!important}.ml-sm-6{margin-left:3rem!important}.ml-sm-auto{margin-left:auto!important}.mr-sm-0{margin-right:0!important}.mr-sm-1{margin-right:.25rem!important}.mr-sm-2{margin-right:.5rem!important}.mr-sm-3{margin-right:1rem!important}.mr-sm-4{margin-right:1.5rem!important}.mr-sm-5{margin-right:2rem!important}.mr-sm-6{margin-right:3rem!important}.mr-sm-auto{margin-right:auto!important}.p-sm-0{padding:0!important}.p-sm-1{padding:.25rem!important}.p-sm-2{padding:.5rem!important}.p-sm-3{padding:1rem!important}.p-sm-4{padding:1.5rem!important}.p-sm-5{padding:2rem!important}.p-sm-6{padding:3rem!important}.pt-sm-0{padding-top:0!important}.pt-sm-1{padding-top:.25rem!important}.pt-sm-2{padding-top:.5rem!important}.pt-sm-3{padding-top:1rem!important}.pt-sm-4{padding-top:1.5rem!important}.pt-sm-5{padding-top:2rem!important}.pt-sm-6{padding-top:3rem!important}.pb-sm-0{padding-bottom:0!important}.pb-sm-1{padding-bottom:.25rem!important}.pb-sm-2{padding-bottom:.5rem!important}.pb-sm-3{padding-bottom:1rem!important}.pb-sm-4{padding-bottom:1.5rem!important}.pb-sm-5{padding-bottom:2rem!important}.pb-sm-6{padding-bottom:3rem!important}.pl-sm-0{padding-left:0!important}.pl-sm-1{padding-left:.25rem!important}.pl-sm-2{padding-left:.5rem!important}.pl-sm-3{padding-left:1rem!important}.pl-sm-4{padding-left:1.5rem!important}.pl-sm-5{padding-left:2rem!important}.pl-sm-6{padding-left:3rem!important}.pr-sm-0{padding-right:0!important}.pr-sm-1{padding-right:.25rem!important}.pr-sm-2{padding-right:.5rem!important}.pr-sm-3{padding-right:1rem!important}.pr-sm-4{padding-right:1.5rem!important}.pr-sm-5{padding-right:2rem!important}.pr-sm-6{padding-right:3rem!important}.text-sm-left{text-align:left!important}.text-sm-right{text-align:right!important}.text-sm-center{text-align:center!important}}@media (min-width:768px){.d-md-block{display:block!important}.d-md-grid{display:grid!important}.d-md-flex{display:flex!important}.d-md-none{display:none!important}.d-md-inline-block{display:inline-block!important}.justify-content-md-start{justify-content:flex-start!important}.justify-content-md-end{justify-content:flex-end!important}.justify-content-md-center{justify-content:center!important}.justify-content-md-between{justify-content:space-between!important}.justify-content-md-around{justify-content:space-around!important}.justify-content-md-evenly{justify-content:space-evenly!important}.align-items-md-start{align-items:flex-start!important}.align-items-md-end{align-items:flex-end!important}.align-items-md-center{align-items:center!important}.align-self-md-start{align-self:flex-start!important}.align-self-md-end{align-self:flex-end!important}.align-self-md-center{align-self:center!important}.order-md-first{order:-1!important}.order-md-0{order:0!important}.order-md-1{order:1!important}.order-md-2{order:2!important}.order-md-3{order:3!important}.order-md-4{order:4!important}.order-md-5{order:5!important}.order-md-last{order:6!important}.mx-md-auto{margin-left:auto!important;margin-right:auto!important}.mt-md-0{margin-top:0!important}.mt-md-1{margin-top:.25rem!important}.mt-md-2{margin-top:.5rem!important}.mt-md-3{margin-top:1rem!important}.mt-md-4{margin-top:1.5rem!important}.mt-md-5{margin-top:2rem!important}.mt-md-6{margin-top:3rem!important}.mt-md-auto{margin-top:auto!important}.mb-md-0{margin-bottom:0!important}.mb-md-1{margin-bottom:.25rem!important}.mb-md-2{margin-bottom:.5rem!important}.mb-md-3{margin-bottom:1rem!important}.mb-md-4{margin-bottom:1.5rem!important}.mb-md-5{margin-bottom:2rem!important}.mb-md-6{margin-bottom:3rem!important}.mb-md-auto{margin-bottom:auto!important}.ml-md-0{margin-left:0!important}.ml-md-1{margin-left:.25rem!important}.ml-md-2{margin-left:.5rem!important}.ml-md-3{margin-left:1rem!important}.ml-md-4{margin-left:1.5rem!important}.ml-md-5{margin-left:2rem!important}.ml-md-6{margin-left:3rem!important}.ml-md-auto{margin-left:auto!important}.mr-md-0{margin-right:0!important}.mr-md-1{margin-right:.25rem!important}.mr-md-2{margin-right:.5rem!important}.mr-md-3{margin-right:1rem!important}.mr-md-4{margin-right:1.5rem!important}.mr-md-5{margin-right:2rem!important}.mr-md-6{margin-right:3rem!important}.mr-md-auto{margin-right:auto!important}.p-md-0{padding:0!important}.p-md-1{padding:.25rem!important}.p-md-2{padding:.5rem!important}.p-md-3{padding:1rem!important}.p-md-4{padding:1.5rem!important}.p-md-5{padding:2rem!important}.p-md-6{padding:3rem!important}.pt-md-0{padding-top:0!important}.pt-md-1{padding-top:.25rem!important}.pt-md-2{padding-top:.5rem!important}.pt-md-3{padding-top:1rem!important}.pt-md-4{padding-top:1.5rem!important}.pt-md-5{padding-top:2rem!important}.pt-md-6{padding-top:3rem!important}.pb-md-0{padding-bottom:0!important}.pb-md-1{padding-bottom:.25rem!important}.pb-md-2{padding-bottom:.5rem!important}.pb-md-3{padding-bottom:1rem!important}.pb-md-4{padding-bottom:1.5rem!important}.pb-md-5{padding-bottom:2rem!important}.pb-md-6{padding-bottom:3rem!important}.pl-md-0{padding-left:0!important}.pl-md-1{padding-left:.25rem!important}.pl-md-2{padding-left:.5rem!important}.pl-md-3{padding-left:1rem!important}.pl-md-4{padding-left:1.5rem!important}.pl-md-5{padding-left:2rem!important}.pl-md-6{padding-left:3rem!important}.pr-md-0{padding-right:0!important}.pr-md-1{padding-right:.25rem!important}.pr-md-2{padding-right:.5rem!important}.pr-md-3{padding-right:1rem!important}.pr-md-4{padding-right:1.5rem!important}.pr-md-5{padding-right:2rem!important}.pr-md-6{padding-right:3rem!important}.text-md-left{text-align:left!important}.text-md-right{text-align:right!important}.text-md-center{text-align:center!important}}@media (min-width:992px){.d-lg-block{display:block!important}.d-lg-grid{display:grid!important}.d-lg-flex{display:flex!important}.d-lg-none{display:none!important}.d-lg-inline-block{display:inline-block!important}.justify-content-lg-start{justify-content:flex-start!important}.justify-content-lg-end{justify-content:flex-end!important}.justify-content-lg-center{justify-content:center!important}.justify-content-lg-between{justify-content:space-between!important}.justify-content-lg-around{justify-content:space-around!important}.justify-content-lg-evenly{justify-content:space-evenly!important}.align-items-lg-start{align-items:flex-start!important}.align-items-lg-end{align-items:flex-end!important}.align-items-lg-center{align-items:center!important}.align-self-lg-start{align-self:flex-start!important}.align-self-lg-end{align-self:flex-end!important}.align-self-lg-center{align-self:center!important}.order-lg-first{order:-1!important}.order-lg-0{order:0!important}.order-lg-1{order:1!important}.order-lg-2{order:2!important}.order-lg-3{order:3!important}.order-lg-4{order:4!important}.order-lg-5{order:5!important}.order-lg-last{order:6!important}.mx-lg-auto{margin-left:auto!important;margin-right:auto!important}.mt-lg-0{margin-top:0!important}.mt-lg-1{margin-top:.25rem!important}.mt-lg-2{margin-top:.5rem!important}.mt-lg-3{margin-top:1rem!important}.mt-lg-4{margin-top:1.5rem!important}.mt-lg-5{margin-top:2rem!important}.mt-lg-6{margin-top:3rem!important}.mt-lg-auto{margin-top:auto!important}.mb-lg-0{margin-bottom:0!important}.mb-lg-1{margin-bottom:.25rem!important}.mb-lg-2{margin-bottom:.5rem!important}.mb-lg-3{margin-bottom:1rem!important}.mb-lg-4{margin-bottom:1.5rem!important}.mb-lg-5{margin-bottom:2rem!important}.mb-lg-6{margin-bottom:3rem!important}.mb-lg-auto{margin-bottom:auto!important}.ml-lg-0{margin-left:0!important}.ml-lg-1{margin-left:.25rem!important}.ml-lg-2{margin-left:.5rem!important}.ml-lg-3{margin-left:1rem!important}.ml-lg-4{margin-left:1.5rem!important}.ml-lg-5{margin-left:2rem!important}.ml-lg-6{margin-left:3rem!important}.ml-lg-auto{margin-left:auto!important}.mr-lg-0{margin-right:0!important}.mr-lg-1{margin-right:.25rem!important}.mr-lg-2{margin-right:.5rem!important}.mr-lg-3{margin-right:1rem!important}.mr-lg-4{margin-right:1.5rem!important}.mr-lg-5{margin-right:2rem!important}.mr-lg-6{margin-right:3rem!important}.mr-lg-auto{margin-right:auto!important}.p-lg-0{padding:0!important}.p-lg-1{padding:.25rem!important}.p-lg-2{padding:.5rem!important}.p-lg-3{padding:1rem!important}.p-lg-4{padding:1.5rem!important}.p-lg-5{padding:2rem!important}.p-lg-6{padding:3rem!important}.pt-lg-0{padding-top:0!important}.pt-lg-1{padding-top:.25rem!important}.pt-lg-2{padding-top:.5rem!important}.pt-lg-3{padding-top:1rem!important}.pt-lg-4{padding-top:1.5rem!important}.pt-lg-5{padding-top:2rem!important}.pt-lg-6{padding-top:3rem!important}.pb-lg-0{padding-bottom:0!important}.pb-lg-1{padding-bottom:.25rem!important}.pb-lg-2{padding-bottom:.5rem!important}.pb-lg-3{padding-bottom:1rem!important}.pb-lg-4{padding-bottom:1.5rem!important}.pb-lg-5{padding-bottom:2rem!important}.pb-lg-6{padding-bottom:3rem!important}.pl-lg-0{padding-left:0!important}.pl-lg-1{padding-left:.25rem!important}.pl-lg-2{padding-left:.5rem!important}.pl-lg-3{padding-left:1rem!important}.pl-lg-4{padding-left:1.5rem!important}.pl-lg-5{padding-left:2rem!important}.pl-lg-6{padding-left:3rem!important}.pr-lg-0{padding-right:0!important}.pr-lg-1{padding-right:.25rem!important}.pr-lg-2{padding-right:.5rem!important}.pr-lg-3{padding-right:1rem!important}.pr-lg-4{padding-right:1.5rem!important}.pr-lg-5{padding-right:2rem!important}.pr-lg-6{padding-right:3rem!important}.text-lg-left{text-align:left!important}.text-lg-right{text-align:right!important}.text-lg-center{text-align:center!important}}@media (min-width:1240px){.d-xl-block{display:block!important}.d-xl-grid{display:grid!important}.d-xl-flex{display:flex!important}.d-xl-none{display:none!important}.d-xl-inline-block{display:inline-block!important}.justify-content-xl-start{justify-content:flex-start!important}.justify-content-xl-end{justify-content:flex-end!important}.justify-content-xl-center{justify-content:center!important}.justify-content-xl-between{justify-content:space-between!important}.justify-content-xl-around{justify-content:space-around!important}.justify-content-xl-evenly{justify-content:space-evenly!important}.align-items-xl-start{align-items:flex-start!important}.align-items-xl-end{align-items:flex-end!important}.align-items-xl-center{align-items:center!important}.align-self-xl-start{align-self:flex-start!important}.align-self-xl-end{align-self:flex-end!important}.align-self-xl-center{align-self:center!important}.order-xl-first{order:-1!important}.order-xl-0{order:0!important}.order-xl-1{order:1!important}.order-xl-2{order:2!important}.order-xl-3{order:3!important}.order-xl-4{order:4!important}.order-xl-5{order:5!important}.order-xl-last{order:6!important}.mx-xl-auto{margin-left:auto!important;margin-right:auto!important}.mt-xl-0{margin-top:0!important}.mt-xl-1{margin-top:.25rem!important}.mt-xl-2{margin-top:.5rem!important}.mt-xl-3{margin-top:1rem!important}.mt-xl-4{margin-top:1.5rem!important}.mt-xl-5{margin-top:2rem!important}.mt-xl-6{margin-top:3rem!important}.mt-xl-auto{margin-top:auto!important}.mb-xl-0{margin-bottom:0!important}.mb-xl-1{margin-bottom:.25rem!important}.mb-xl-2{margin-bottom:.5rem!important}.mb-xl-3{margin-bottom:1rem!important}.mb-xl-4{margin-bottom:1.5rem!important}.mb-xl-5{margin-bottom:2rem!important}.mb-xl-6{margin-bottom:3rem!important}.mb-xl-auto{margin-bottom:auto!important}.ml-xl-0{margin-left:0!important}.ml-xl-1{margin-left:.25rem!important}.ml-xl-2{margin-left:.5rem!important}.ml-xl-3{margin-left:1rem!important}.ml-xl-4{margin-left:1.5rem!important}.ml-xl-5{margin-left:2rem!important}.ml-xl-6{margin-left:3rem!important}.ml-xl-auto{margin-left:auto!important}.mr-xl-0{margin-right:0!important}.mr-xl-1{margin-right:.25rem!important}.mr-xl-2{margin-right:.5rem!important}.mr-xl-3{margin-right:1rem!important}.mr-xl-4{margin-right:1.5rem!important}.mr-xl-5{margin-right:2rem!important}.mr-xl-6{margin-right:3rem!important}.mr-xl-auto{margin-right:auto!important}.p-xl-0{padding:0!important}.p-xl-1{padding:.25rem!important}.p-xl-2{padding:.5rem!important}.p-xl-3{padding:1rem!important}.p-xl-4{padding:1.5rem!important}.p-xl-5{padding:2rem!important}.p-xl-6{padding:3rem!important}.pt-xl-0{padding-top:0!important}.pt-xl-1{padding-top:.25rem!important}.pt-xl-2{padding-top:.5rem!important}.pt-xl-3{padding-top:1rem!important}.pt-xl-4{padding-top:1.5rem!important}.pt-xl-5{padding-top:2rem!important}.pt-xl-6{padding-top:3rem!important}.pb-xl-0{padding-bottom:0!important}.pb-xl-1{padding-bottom:.25rem!important}.pb-xl-2{padding-bottom:.5rem!important}.pb-xl-3{padding-bottom:1rem!important}.pb-xl-4{padding-bottom:1.5rem!important}.pb-xl-5{padding-bottom:2rem!important}.pb-xl-6{padding-bottom:3rem!important}.pl-xl-0{padding-left:0!important}.pl-xl-1{padding-left:.25rem!important}.pl-xl-2{padding-left:.5rem!important}.pl-xl-3{padding-left:1rem!important}.pl-xl-4{padding-left:1.5rem!important}.pl-xl-5{padding-left:2rem!important}.pl-xl-6{padding-left:3rem!important}.pr-xl-0{padding-right:0!important}.pr-xl-1{padding-right:.25rem!important}.pr-xl-2{padding-right:.5rem!important}.pr-xl-3{padding-right:1rem!important}.pr-xl-4{padding-right:1.5rem!important}.pr-xl-5{padding-right:2rem!important}.pr-xl-6{padding-right:3rem!important}.text-xl-left{text-align:left!important}.text-xl-right{text-align:right!important}.text-xl-center{text-align:center!important}}@media (min-width:1400px){.d-xxl-block{display:block!important}.d-xxl-grid{display:grid!important}.d-xxl-flex{display:flex!important}.d-xxl-none{display:none!important}.d-xxl-inline-block{display:inline-block!important}.justify-content-xxl-start{justify-content:flex-start!important}.justify-content-xxl-end{justify-content:flex-end!important}.justify-content-xxl-center{justify-content:center!important}.justify-content-xxl-between{justify-content:space-between!important}.justify-content-xxl-around{justify-content:space-around!important}.justify-content-xxl-evenly{justify-content:space-evenly!important}.align-items-xxl-start{align-items:flex-start!important}.align-items-xxl-end{align-items:flex-end!important}.align-items-xxl-center{align-items:center!important}.align-self-xxl-start{align-self:flex-start!important}.align-self-xxl-end{align-self:flex-end!important}.align-self-xxl-center{align-self:center!important}.order-xxl-first{order:-1!important}.order-xxl-0{order:0!important}.order-xxl-1{order:1!important}.order-xxl-2{order:2!important}.order-xxl-3{order:3!important}.order-xxl-4{order:4!important}.order-xxl-5{order:5!important}.order-xxl-last{order:6!important}.mx-xxl-auto{margin-left:auto!important;margin-right:auto!important}.mt-xxl-0{margin-top:0!important}.mt-xxl-1{margin-top:.25rem!important}.mt-xxl-2{margin-top:.5rem!important}.mt-xxl-3{margin-top:1rem!important}.mt-xxl-4{margin-top:1.5rem!important}.mt-xxl-5{margin-top:2rem!important}.mt-xxl-6{margin-top:3rem!important}.mt-xxl-auto{margin-top:auto!important}.mb-xxl-0{margin-bottom:0!important}.mb-xxl-1{margin-bottom:.25rem!important}.mb-xxl-2{margin-bottom:.5rem!important}.mb-xxl-3{margin-bottom:1rem!important}.mb-xxl-4{margin-bottom:1.5rem!important}.mb-xxl-5{margin-bottom:2rem!important}.mb-xxl-6{margin-bottom:3rem!important}.mb-xxl-auto{margin-bottom:auto!important}.ml-xxl-0{margin-left:0!important}.ml-xxl-1{margin-left:.25rem!important}.ml-xxl-2{margin-left:.5rem!important}.ml-xxl-3{margin-left:1rem!important}.ml-xxl-4{margin-left:1.5rem!important}.ml-xxl-5{margin-left:2rem!important}.ml-xxl-6{margin-left:3rem!important}.ml-xxl-auto{margin-left:auto!important}.mr-xxl-0{margin-right:0!important}.mr-xxl-1{margin-right:.25rem!important}.mr-xxl-2{margin-right:.5rem!important}.mr-xxl-3{margin-right:1rem!important}.mr-xxl-4{margin-right:1.5rem!important}.mr-xxl-5{margin-right:2rem!important}.mr-xxl-6{margin-right:3rem!important}.mr-xxl-auto{margin-right:auto!important}.p-xxl-0{padding:0!important}.p-xxl-1{padding:.25rem!important}.p-xxl-2{padding:.5rem!important}.p-xxl-3{padding:1rem!important}.p-xxl-4{padding:1.5rem!important}.p-xxl-5{padding:2rem!important}.p-xxl-6{padding:3rem!important}.pt-xxl-0{padding-top:0!important}.pt-xxl-1{padding-top:.25rem!important}.pt-xxl-2{padding-top:.5rem!important}.pt-xxl-3{padding-top:1rem!important}.pt-xxl-4{padding-top:1.5rem!important}.pt-xxl-5{padding-top:2rem!important}.pt-xxl-6{padding-top:3rem!important}.pb-xxl-0{padding-bottom:0!important}.pb-xxl-1{padding-bottom:.25rem!important}.pb-xxl-2{padding-bottom:.5rem!important}.pb-xxl-3{padding-bottom:1rem!important}.pb-xxl-4{padding-bottom:1.5rem!important}.pb-xxl-5{padding-bottom:2rem!important}.pb-xxl-6{padding-bottom:3rem!important}.pl-xxl-0{padding-left:0!important}.pl-xxl-1{padding-left:.25rem!important}.pl-xxl-2{padding-left:.5rem!important}.pl-xxl-3{padding-left:1rem!important}.pl-xxl-4{padding-left:1.5rem!important}.pl-xxl-5{padding-left:2rem!important}.pl-xxl-6{padding-left:3rem!important}.pr-xxl-0{padding-right:0!important}.pr-xxl-1{padding-right:.25rem!important}.pr-xxl-2{padding-right:.5rem!important}.pr-xxl-3{padding-right:1rem!important}.pr-xxl-4{padding-right:1.5rem!important}.pr-xxl-5{padding-right:2rem!important}.pr-xxl-6{padding-right:3rem!important}.text-xxl-left{text-align:left!important}.text-xxl-right{text-align:right!important}.text-xxl-center{text-align:center!important}}@media print{.d-print-block{display:block!important}.d-print-grid{display:grid!important}.d-print-flex{display:flex!important}.d-print-none{display:none!important}.d-print-inline-block{display:inline-block!important}}.img-fluid{height:auto;max-width:100%}.fade-enter-active,.fade-leave-active{transition:opacity .5s ease}.fade-enter-from,.fade-leave-to{opacity:0}@font-face{font-display:swap;font-family:Terfens;font-style:normal;font-weight:400;src:url(https://aws-origin.image-tech-storage.com/websites/playojo.co.uk/fonts/terfens/Terfens.eot);src:url(https://aws-origin.image-tech-storage.com/websites/playojo.co.uk/fonts/terfens/Terfens.eot#iefix) format("embedded-opentype"),url(https://aws-origin.image-tech-storage.com/websites/playojo.co.uk/fonts/terfens/Terfens.woff2) format("woff2"),url(https://aws-origin.image-tech-storage.com/websites/playojo.co.uk/fonts/terfens/Terfens.woff) format("woff"),url(https://aws-origin.image-tech-storage.com/websites/playojo.co.uk/fonts/terfens/Terfens.ttf) format("truetype"),url(https://aws-origin.image-tech-storage.com/websites/playojo.co.uk/fonts/terfens/Terfens.svg#Terfens) format("svg")}@font-face{font-display:swap;font-family:bree;src:url(https://use.typekit.net/af/c8df20/000000000000000077359539/30/l?fvd=i7&primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&v=3) format("woff2"),url(https://use.typekit.net/af/c8df20/000000000000000077359539/30/d?fvd=i7&primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&v=3) format("woff"),url(https://use.typekit.net/af/c8df20/000000000000000077359539/30/a?fvd=i7&primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&v=3) format("opentype")}@font-face{font-display:auto;font-display:swap;font-family:muli;font-stretch:normal;font-style:normal;font-weight:400;src:url(https://use.typekit.net/af/7fe570/00000000000000007735a0ee/30/l?fvd=n4&primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&v=3) format("woff2"),url(https://use.typekit.net/af/7fe570/00000000000000007735a0ee/30/d?fvd=n4&primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&v=3) format("woff"),url(https://use.typekit.net/af/7fe570/00000000000000007735a0ee/30/a?fvd=n4&primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&v=3) format("opentype")}@font-face{font-display:swap;font-family:Terfens;font-style:normal;font-weight:500;src:url(https://aws-origin.image-tech-storage.com/websites/playojo.co.uk/fonts/terfens/Terfens-Me.eot);src:url(https://aws-origin.image-tech-storage.com/websites/playojo.co.uk/fonts/terfens/Terfens-Me.eot#iefix) format("embedded-opentype"),url(https://aws-origin.image-tech-storage.com/websites/playojo.co.uk/fonts/terfens/Terfens-Me.woff2) format("woff2"),url(https://aws-origin.image-tech-storage.com/websites/playojo.co.uk/fonts/terfens/Terfens-Me.woff) format("woff"),url(https://aws-origin.image-tech-storage.com/websites/playojo.co.uk/fonts/terfens/Terfens-Me.ttf) format("truetype"),url(https://aws-origin.image-tech-storage.com/websites/playojo.co.uk/fonts/terfens/Terfens-Me.svg#Terfens-Me) format("svg")}@font-face{font-display:swap;font-family:Terfens;font-style:normal;font-weight:700;src:url(https://aws-origin.image-tech-storage.com/websites/playojo.co.uk/fonts/terfens/Terfens-Bo.eot);src:url(https://aws-origin.image-tech-storage.com/websites/playojo.co.uk/fonts/terfens/Terfens-Bo.eot#iefix) format("embedded-opentype"),url(https://aws-origin.image-tech-storage.com/websites/playojo.co.uk/fonts/terfens/Terfens-Bo.woff2) format("woff2"),url(https://aws-origin.image-tech-storage.com/websites/playojo.co.uk/fonts/terfens/Terfens-Bo.woff) format("woff"),url(https://aws-origin.image-tech-storage.com/websites/playojo.co.uk/fonts/terfens/Terfens-Bo.ttf) format("truetype"),url(https://aws-origin.image-tech-storage.com/websites/playojo.co.uk/fonts/terfens/Terfens-Bo.svg#Terfens-Bo) format("svg")}@font-face{font-display:swap;font-family:Terfens;font-style:normal;font-weight:900;src:url(https://aws-origin.image-tech-storage.com/websites/playojo.co.uk/fonts/terfens/Terfens-Black.eot);src:url(https://aws-origin.image-tech-storage.com/websites/playojo.co.uk/fonts/terfens/Terfens-Black.eot#iefix) format("embedded-opentype"),url(https://aws-origin.image-tech-storage.com/websites/playojo.co.uk/fonts/terfens/Terfens-Black.woff2) format("woff2"),url(https://aws-origin.image-tech-storage.com/websites/playojo.co.uk/fonts/terfens/Terfens-Black.woff) format("woff"),url(https://aws-origin.image-tech-storage.com/websites/playojo.co.uk/fonts/terfens/Terfens-Black.ttf) format("truetype"),url(https://aws-origin.image-tech-storage.com/websites/playojo.co.uk/fonts/terfens/Terfens-Black.svg#Terfens-Black) format("svg")}@font-face{font-display:swap;font-family:Geneva;font-style:normal;font-weight:400;src:url(https://aws-origin.image-tech-storage.com/websites/playojo.co.uk/fonts/geneva/Geneva.eot);src:url(https://aws-origin.image-tech-storage.com/websites/playojo.co.uk/fonts/geneva/Geneva.eot#iefix) format("embedded-opentype"),url(https://aws-origin.image-tech-storage.com/websites/playojo.co.uk/fonts/geneva/Geneva.woff2) format("woff2"),url(https://aws-origin.image-tech-storage.com/websites/playojo.co.uk/fonts/geneva/Geneva.woff) format("woff"),url(https://aws-origin.image-tech-storage.com/websites/playojo.co.uk/fonts/geneva/Geneva.ttf) format("truetype"),url(https://aws-origin.image-tech-storage.com/websites/playojo.co.uk/fonts/geneva/Geneva.svg#Geneva) format("svg")}@font-face{font-display:swap;font-family:Geneva;font-style:normal;font-weight:700;src:url(https://aws-origin.image-tech-storage.com/websites/playojo.co.uk/fonts/geneva/Geneva-Bold.eot);src:url(https://aws-origin.image-tech-storage.com/websites/playojo.co.uk/fonts/geneva/Geneva-Bold.eot#iefix) format("embedded-opentype"),url(https://aws-origin.image-tech-storage.com/websites/playojo.co.uk/fonts/geneva/Geneva-Bold.woff2) format("woff2"),url(https://aws-origin.image-tech-storage.com/websites/playojo.co.uk/fonts/geneva/Geneva-Bold.woff) format("woff"),url(https://aws-origin.image-tech-storage.com/websites/playojo.co.uk/fonts/geneva/Geneva-Bold.ttf) format("truetype"),url(https://aws-origin.image-tech-storage.com/websites/playojo.co.uk/fonts/geneva/Geneva-Bold.svg#Geneva-Bold) format("svg")}@font-face{font-display:block;font-family:icons;font-style:normal;font-weight:400;src:url(https://aws-origin.image-tech-storage.com/websites/playojo.co.uk/fonts/icons/icons.eot?vtyj0r=);src:url(https://aws-origin.image-tech-storage.com/websites/playojo.co.uk/fonts/icons/icons.eot?vtyj0r=#iefix) format("embedded-opentype"),url(https://aws-origin.image-tech-storage.com/websites/playojo.co.uk/fonts/icons/icons.ttf?vtyj0r=) format("truetype"),url(https://aws-origin.image-tech-storage.com/websites/playojo.co.uk/fonts/icons/icons.woff?vtyj0r=) format("woff"),url(https://aws-origin.image-tech-storage.com/websites/playojo.co.uk/fonts/icons/icons.woff2?vtyj0r=) format("woff2"),url(https://aws-origin.image-tech-storage.com/websites/playojo.co.uk/fonts/icons/icons.svg?vtyj0r=#icons) format("svg")}.ico{speak:none;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;font-family:icons!important;font-style:normal;font-variant:normal;font-weight:400;line-height:1;text-transform:none}.ico-twitter-x:before{content:""}.ico-eq-bingo:before{content:""}.ico-money-3percent:before{content:""}.ico-easy:before{content:""}.ico-fair:before{content:""}.ico-fun:before{content:""}.ico-safe:before{content:""}.ico-level-icon:before{content:""}.ico-OJO-Levels-Icon:before{color:#04064b;content:""}.ico-hot-or-cold:before{content:""}.ico-game_shows:before{content:""}.ico-ojo-safemate:before{content:""}.ico-blog_icon1:before{content:""}.ico-shield:before{content:""}.ico-prize-twister:before{content:""}.ico-guide:before{content:""}.ico-canadian-currency:before{content:""}.ico-ojo-brand-name:before{content:""}.ico-ojo-brand-clock:before{content:""}.ico-family-friends:before{content:""}.ico-tools:before{content:""}.ico-tips:before{content:""}.ico-ojo-promise:before{content:""}.ico-prize:before{content:""}.ico-ticket:before{content:""}.ico-players:before{content:""}.ico-money:before{content:""}.ico-slingo:before{content:""}.ico-roomies:before{content:""}.ico-ball_75:before{content:""}.ico-ball_90:before{content:""}.ico-ojo-fair:before{content:""}.ico-ojo-chip:before{content:""}.ico-daily-jackpot:before{content:""}.ico-scratchcards:before{content:""}.ico-star-circle:before{content:""}.ico-download:before{color:#26275f;content:""}.ico-checked:before{content:""}.ico-jackpot:before{content:""}.ico-cardplay:before{content:""}.ico-new:before{content:""}.ico-popular:before{content:""}.ico-blackjack:before{content:""}.ico-livecasino:before{content:""}.ico-roulette:before{content:""}.ico-dice:before{content:""}.ico-info:before{content:""}.ico-play:before{content:""}.ico-cashout:before{content:""}.ico-star:before{content:""}.ico-account:before{content:""}.ico-arrow-left:before{content:""}.ico-arrow-right:before{content:""}.ico-big-win:before{content:""}.ico-calendar:before{content:""}.ico-chevron-left:before{content:""}.ico-deposit:before{content:""}.ico-heart:before{content:""}.ico-list:before{content:""}.ico-menu:before{content:""}.ico-modular:before{content:""}.ico-quick-deposit:before{content:""}.ico-radio:before{content:""}.ico-rewards:before{content:""}.ico-safeguard:before{content:""}.ico-tile:before{content:""}.ico-withdraw:before{content:""}.ico-contact:before{content:""}.ico-faq:before{content:""}.ico-legend:before{content:""}.ico-manifesto:before{content:""}.ico-users:before{content:""}.ico-video:before{content:""}.ico-plus:before{content:""}.ico-vip:before{content:""}.ico-wheel:before{content:""}.ico-gift:before{content:""}.ico-reels:before{content:""}.ico-android:before{content:""}.ico-apple:before{content:""}.ico-instagram:before{content:""}.ico-youtube:before{content:""}.ico-twitter:before{content:""}.ico-facebook:before{content:""}.ico-close:before{content:""}.ico-search:before{content:""}.ico-chevron-down:before{content:""}.ico-chevron-right:before{content:""}.ico-games:before{content:""}.ico-about:before{content:""}.ico-help:before{content:""}.ico-home:before{content:""}.ico-kickers:before{content:""}.ico-specials:before{content:""}.ico-biggest-win:before{content:""}.ico-plus-1,.ico-plus-2,.ico-plus-3{background-position:50%;background-repeat:no-repeat;height:33px;width:92px}.ico-plus-1{background-image:url(https://aws-origin.image-tech-storage.com/websites/playojo.co.uk/images/icons/plus-1.svg)}.ico-plus-2{background-image:url(https://aws-origin.image-tech-storage.com/websites/playojo.co.uk/images/icons/plus-2.svg)}.ico-plus-3{background-image:url(https://aws-origin.image-tech-storage.com/websites/playojo.co.uk/images/icons/plus-3.svg)}@media screen and (max-width:1500px){.ico-plus-1,.ico-plus-2,.ico-plus-3{background-position:50%;background-repeat:no-repeat;background-size:contain;height:23px;width:64px}}.ico-chat,.ico-email,.ico-phone{background-image:url(https://aws-origin.image-tech-storage.com/websites/playojo.co.uk/images/icons/contact.png);background-repeat:no-repeat;display:block;height:80px;width:81px}.ico-email{background-position:-87px -5px}.ico-phone{background-position:-178px -5px}.ico-chat{background-position:-5px -5px}.btn-white{background:#fff;border:#0000;box-shadow:none;color:#000;font-weight:700}.btn-white.active,.btn-white.disabled,.btn-white:active,.btn-white:disabled,.btn-white:focus,.btn-white:hover{background:#fff;border-color:#0000;box-shadow:none;color:#000}.btn-yellow{background:linear-gradient(180deg,#fcc208,#fed349 88%,#fbd25c);border:#0000;box-shadow:none;color:#000;font-size:18px;font-weight:900}.btn-yellow.active,.btn-yellow:active,.btn-yellow:focus,.btn-yellow:hover{background:linear-gradient(180deg,#fcff00,#fed349 88%,#fbd25c);border-color:#0000;box-shadow:none;color:#000}.btn-yellow.disabled,.btn-yellow:disabled{background:linear-gradient(180deg,#fcc208,#fed349 88%,#fbd25c);border-color:#0000;box-shadow:none;color:#000}:root{--beam-position:relative;--beam-index:90;--beam-color:#337ab7;--beam-font-size:14px;--beam-background:#e7f1f2;--beam-padding:2px 5px;--beam-font-family:"muli";--beam-link-color:#99005a;--beam-link-decoration:underline;--beam-link-color-hover:#99005a;--beam-link-decoration-hover:underline;--license-logo-item-margin:5px 10px;--hero-terms-font-family:"muli";--hero-terms-font-size-desktop:11px;--faq-question-icon-width:1.9rem;--faq-question-icon-margin-left:0;--faq-question-header-padding:.1rem;--faq-question-item-border-top:none;--faq-question-item-border-left:none;--faq-question-header-font-size:15px;--faq-question-item-border-right:none;--faq-question-item-border-bottom:none;--faq-question-icon-margin-right:1.1rem;--faq-question-justify-content:flex-end;--faq-question-body-padding:0 0 0 1.9rem;--faq-question-flex-direction:row-reverse;--faq-radius:0px;--faq-group-header-weight:700;--faq-group-body-padding:1rem;--faq-group-icon-width:2.5rem;--faq-icon-rotate:rotate(0reg);--accordion-icon-color:#fcc107;--faq-group-body-color:#23208f;--faq-group-body-font-size:14px;--faq-question-body-padding:0 0 0 2.9rem;--faq-group-item-border-top:none;--faq-group-header-padding:10px 30px;--faq-group-item-border-left:none;--faq-group-header-font-size:20px;--faq-group-item-border-right:none;--faq-group-header-color:#23208f;--faq-group-item-border-radius:0px;--accordion-icon-active-color:#fcc107;--faq-group-header-active-color:#23208f;--faq-group-header-active-background:#fff;--faq-group-item-border-bottom:2px solid #fcc107;--faq-group-header-border-bottom:2px solid #fcc107;--faq-group-font-family:"muli";--faq-group-header-font-family:Terfens,Helvetica Neue,Helvetica,Arial,sans-serif;--faq-group-icon:url("data:image/svg+xml;charset=utf-8,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='-300 0 900 1000'%3E%3Cpath fill='%23fcc107' d='M165.932 257.865c-10.348-9.847-20.613-19.472-30.821-29.32-27.817-26.844-54.94-54.523-77.889-85.873-19.141-25.684-35.718-55.028-48.377-86.373C.001 33.543 20.42 10.343 37.944 11.929 49.349 12.959 58 18.132 62.98 28.62c3.7 7.594 6.759 15.467 10.376 23.089 15.466 32.547 37.193 60.921 61.616 87.459q31.546 34.077 66.123 65.093a125.622 125.622 0 0 1 15.045 15.363c14.331 18.351 17.363 38.38 7.877 59.55-4.207 8.882-8.534 16.395-13.379 23.527-46.433 71.418-91.635 132.949-139.94 191.836-1.886 2.88-9.624 7.12-18.352 7.12-3.023 0-5.928-.509-8.633-1.445-12.082-3.394-20.177-11.238-22.32-24.173-.302-1.774-.474-3.816-.474-5.899a36.83 36.83 0 0 1 9.297-24.516c36.13-44.331 70.595-90.007 102.752-137.408 10.599-15.634 20.779-31.517 31.155-47.289.64-.974 1.168-1.976 1.809-3.06z'/%3E%3C/svg%3E");--faq-group-active-icon:url("data:image/svg+xml;charset=utf-8,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1064 512'%3E%3Cpath fill='%23fcc107' d='m531.86 307.986 21.406-23.849c26.791-29.734 54.11-58.97 84.649-84.982 31.774-27.608 68.452-50.715 108.355-67.72 6.002-2.546 9.87-3.434 13.945-3.434a27.32 27.32 0 0 1 13.869 3.758c11.226 6.343 19.306 15.534 19.971 29.137.61 14.91-6.163 25.958-19.85 32.482-10.218 4.858-20.573 9.494-30.539 14.826-32.538 17.38-60.441 40.867-86.649 66.631-24.821 24.293-48.308 49.806-70.74 76.293a118.276 118.276 0 0 1-12.876 12.712c-20.134 17.327-43.761 20.159-67.193 8.082-7.5-3.988-13.782-7.873-19.798-12.106-76.433-52.338-143.025-103.877-206.524-158.895-8.277-7.209-11.054-22.59-4.058-37.194 5-11.334 16.139-19.103 29.094-19.103 1.814 0 3.594.153 5.326.446a41.89 41.89 0 0 1 21.238 9.926c58.283 50.739 122.254 100.133 189.048 145.694 8.438 5.464 9.799 6.298 11.326 7.297z'/%3E%3C/svg%3E")}@media (min-width:576px){:root{--beam-font-size:0.875rem}}son-beam{background:#e7f1f2;display:block;font-weight:500}html{font-size:14px}@media (min-width:1240px){html{font-size:15px}}@media (min-width:1400px){html{font-size:16px}}.logged-in,.logged-in body{-webkit-overflow-scrolling:auto;height:100%;overflow:auto}.logged-in body{min-width:100%;width:1px}.right-content{width:100%}@media (min-width:1240px){html:not(.logged-in) .right-content{padding-left:229px}}@media (min-width:1400px){html:not(.logged-in) .right-content{padding-left:258px}}.top-content{--nav-ratio:1;left:0;position:sticky;top:0;z-index:90}@media (min-width:576px){.top-content{--nav-ratio:1.2}}@media (min-width:768px){.top-content{--nav-ratio:1.3}}.top-content .top-nav{background-color:#26275f;width:100%}.top-content .top-nav img{height:auto;width:calc(40px*var(--nav-ratio, 1))}.top-content .button-menu{color:#fff;font-size:calc(24px*var(--nav-ratio, 1));line-height:1;text-decoration:none}.top-content .btn{font-size:calc(10px*var(--nav-ratio, 1));padding:calc(8px*var(--nav-ratio, 1)) calc(18px*var(--nav-ratio, 1))}.floating-icon.diamond{background-image:url(https://aws-origin.image-tech-storage.com/websites/playojo.co.uk/images/floating/diamond.png?v=5)}@media (max-width:1239.98px){.mobile-floating-icon{display:block!important;z-index:4}.color-bg-top-white.no-content{margin-top:-230px;padding-bottom:60px}.color-bg-top-white.no-content .btn{left:50%;margin:0 auto;position:absolute;top:330px;transform:translate(-50%);z-index:2}.floating-icon.bottom-chip{height:104px;left:0;margin:0 auto;right:0;width:136px}.floating-icon.bottom-chip,.floating-icon.bottom-left-chip{background-image:url(https://aws-origin.image-tech-storage.com/websites/playojo.co.uk/images/mobile/icons/chip.png?v=5);top:300px}.floating-icon.bottom-left-chip{height:94px;left:-10px;width:116px}.floating-icon.top-right-chip{background-image:url(https://aws-origin.image-tech-storage.com/websites/playojo.co.uk/images/mobile/icons/chip.png?v=5);height:94px;right:-40px;top:20px;width:116px}.floating-icon.top-left-spade{background-image:url(https://aws-origin.image-tech-storage.com/websites/playojo.co.uk/images/mobile/icons/spade.png?v=5);height:80px;left:10px;top:10px;width:61px}}h1,h2{font-family:bree;font-size:34px}li,p{font-family:muli;font-size:14px}.floating-icon{background-position:50%;background-repeat:no-repeat;background-size:cover;position:absolute;z-index:1}.floating-icon.diamond{background-image:url(https://aws-origin.image-tech-storage.com/websites/playojo.co.uk/images/floating/diamond.png?v=4);bottom:0;height:206px;left:0;margin:0 auto;right:0;width:199px}.floating-icon.chip{background-image:url(https://aws-origin.image-tech-storage.com/websites/playojo.co.uk/images/floating/chip.png?v=5);height:186px;right:-80px;top:50%;transform:translateY(-50%);width:187px}.floating-icon.heart{background-image:url(https://aws-origin.image-tech-storage.com/websites/playojo.co.uk/images/floating/heart.png?v=5);height:277px;left:-100px;top:20px;width:281px}.floating-icon.chip-left{background-image:url(https://aws-origin.image-tech-storage.com/websites/playojo.co.uk/images/floating/chip-left.png?v=5);bottom:-105.5px;height:211px;left:-265px;width:265px}.floating-icon.heart-right{background-image:url(https://aws-origin.image-tech-storage.com/websites/playojo.co.uk/images/floating/heart-right.png?v=5);bottom:-97.5px;height:195px;right:-241px;width:241px}.floating-icon.diamond-bottom{background-image:url(https://aws-origin.image-tech-storage.com/websites/playojo.co.uk/images/floating/diamond-bottom.png?v=5);bottom:-196px;height:196px;right:-171px;width:171px}.floating-icon.heart-left{background-image:url(https://aws-origin.image-tech-storage.com/websites/playojo.co.uk/images/floating/heart-right.png?v=5);bottom:-78px;height:195px;left:-241px;width:241px}.floating-icon.heart-left.rotated{transform:rotate(-45deg)}.floating-icon.diamond-small-center{background-image:url(https://aws-origin.image-tech-storage.com/websites/playojo.co.uk/images/floating/diamond-bottom.png?v=5);bottom:-49.6px;height:124px;left:0;margin:0 auto;right:-116px;width:116px}.floating-icon.brilliant-right{background-image:url(https://aws-origin.image-tech-storage.com/websites/playojo.co.uk/images/floating/brilliant-right.png?v=5);bottom:-90.5px;height:181px;right:-188px;width:188px}.floating-icon.brilliant-right.rotated{transform:rotate(45deg)}.floating-icon.brilliant-left{background-image:url(https://aws-origin.image-tech-storage.com/websites/playojo.co.uk/images/floating/brilliant-right.png?v=5);bottom:-90.5px;height:181px;left:-188px;width:188px}.floating-icon.chip-rotated-right{background-image:url(https://aws-origin.image-tech-storage.com/websites/playojo.co.uk/images/floating/chip-rotated-right.png?v=5);bottom:-110.5px;height:221px;right:-188px;width:188px}.floating-icon.diamond-right{background-image:url(https://aws-origin.image-tech-storage.com/websites/playojo.co.uk/images/floating/diamond-right.png?v=5);bottom:-75.5px;height:151px;right:-145px;width:145px}@media (max-width:1399.98px){.floating-icon.diamond{height:185.4px;width:179.1px}.floating-icon.chip{height:167.4px;right:-72px;width:168.3px}.floating-icon.heart{height:249.3px;left:-90px;width:252.9px}.floating-icon.chip-left{bottom:-94.95px;height:189.9px;left:-225.25px;width:238.5px}.floating-icon.heart-right{bottom:-123.5px;height:175.5px;right:-144.6px;width:216.9px}.floating-icon.diamond-bottom{height:176.4px;right:-102.6px;width:153.9px}.floating-icon.heart-left{bottom:-92.625px;height:175.5px;left:-168.7px;width:216.9px}.floating-icon.diamond-small-center{bottom:-58.9px;height:111.6px;right:-104.4px;width:104.4px}.floating-icon.brilliant-right{bottom:-85.975px;height:162.9px;right:-169.2px;width:169.2px}.floating-icon.brilliant-left{bottom:-85.975px;height:162.9px;left:-169.2px;width:169.2px}.floating-icon.chip-rotated-right{bottom:-104.975px;height:198.9px;right:-169.2px;width:169.2px}.floating-icon.diamond-right{bottom:-71.725px;height:135.9px;right:-130.5px;width:130.5px}}@media (max-width:991.98px){.floating-icon.diamond{height:164.8px;width:159.2px}.floating-icon.chip{height:148.8px;right:-64px;width:149.6px}.floating-icon.heart{height:221.6px;left:-80px;width:224.8px}.floating-icon.chip-left{bottom:-84.4px;height:168.8px;left:-212px;width:212px}.floating-icon.heart-right{bottom:-123.5px;height:156px;right:-192.8px;width:192.8px}.floating-icon.diamond-bottom{height:156.8px;right:-136.8px;width:136.8px}.floating-icon.heart-left{bottom:-78px;height:156px;left:-192.8px;width:192.8px}.floating-icon.diamond-small-center{bottom:-49.6px;height:99.2px;right:-92.8px;width:92.8px}.floating-icon.brilliant-right{bottom:-72.4px;height:144.8px;right:-150.4px;width:150.4px}.floating-icon.brilliant-left{bottom:-72.4px;height:144.8px;left:-150.4px;width:150.4px}.floating-icon.chip-rotated-right{bottom:-88.4px;height:176.8px;right:-150.4px;width:150.4px}.floating-icon.diamond-right{bottom:-60.4px;height:120.8px;right:-116px;width:116px}}@media (max-width:767.98px){.floating-icon.diamond{height:133.9px;width:129.35px}.floating-icon.chip{height:120.9px;right:-52px;width:121.55px}.floating-icon.heart{height:180.05px;left:-65px;width:182.65px}.floating-icon.chip-left{bottom:-133.6333333333px;height:137.15px;left:-172.25px;width:172.25px}.floating-icon.heart-right{bottom:-123.5px;height:126.75px;right:-156.65px;width:156.65px}.floating-icon.diamond-bottom{height:127.4px;right:-108.3px;width:111.15px}.floating-icon.heart-left{bottom:-63.375px;height:126.75px;left:-156.65px;width:156.65px}.floating-icon.diamond-small-center{bottom:-40.3px;height:80.6px;right:-75.4px;width:75.4px}.floating-icon.brilliant-right{bottom:-58.825px;height:117.65px;right:-122.2px;width:122.2px}.floating-icon.brilliant-left{bottom:-58.825px;height:117.65px;left:-122.2px;width:122.2px}.floating-icon.chip-rotated-right{bottom:-71.825px;height:143.65px;right:-122.2px;width:122.2px}.floating-icon.diamond-right{bottom:-49.075px;height:98.15px;right:-94.25px;width:94.25px}}@media (max-width:575.98px){.floating-icon.diamond{height:82.4px;width:79.6px}.floating-icon.chip{height:74.4px;right:10px;width:74.8px}.floating-icon.heart{height:110.8px;left:10px;width:112.4px}.floating-icon.chip-left{bottom:-121.65px;height:84.4px;left:-21.1px;width:106px}.floating-icon.chip-help{bottom:-31.65px}.floating-icon.heart-right{bottom:-146.25px;height:78px;right:10px;width:96.4px}.floating-icon.diamond-bottom{bottom:-19.5px;height:78.4px;right:10px;width:68.4px}.floating-icon.heart-left{bottom:-66.25px;height:78px;left:10px;width:96.4px}.floating-icon.diamond-small-center{bottom:-6.2px;height:49.6px;right:-90%;width:46.4px}.floating-icon.brilliant-right{bottom:-9.05px;height:72.4px;right:-9.4px;width:75.2px}.floating-icon.diamond-right{bottom:-7.55px;height:60.4px;right:-7.25px;width:58px}.floating-icon.chip-rotated-right{bottom:-11.05px;height:88.4px;right:-9.4px;width:75.2px}.floating-icon.brilliant-left{bottom:-9.05px;height:72.4px;left:-9.4px;width:75.2px}}.mobile-floating-icon{display:none}@media (max-width:1239.98px){.mobile-floating-icon{display:block!important;z-index:4}.color-bg-top-white.no-content{margin-top:-230px;padding-bottom:60px}.color-bg-top-white.no-content .btn{left:50%;margin:0 auto;position:absolute;top:330px;transform:translate(-50%);z-index:2}.floating-icon.bottom-chip{height:104px;left:0;margin:0 auto;right:0;width:136px}.floating-icon.bottom-chip,.floating-icon.bottom-left-chip{background-image:url(https://aws-origin.image-tech-storage.com/websites/playojo.co.uk/images/mobile/icons/chip.png?v=4);top:300px}.floating-icon.bottom-left-chip{height:94px;left:-10px;width:116px}.floating-icon.top-right-chip{background-image:url(https://aws-origin.image-tech-storage.com/websites/playojo.co.uk/images/mobile/icons/chip.png?v=4);height:94px;right:-40px;top:20px;width:116px}.floating-icon.top-left-spade{background-image:url(https://aws-origin.image-tech-storage.com/websites/playojo.co.uk/images/mobile/icons/spade.png?v=4);height:80px;left:10px;top:10px;width:61px}}@media (max-width:767.98px){.floating-icon.top-right-chip{height:64px;top:20px;width:86px}.floating-icon.top-left-spade{height:60px;left:-5px;top:20px;width:51px}.floating-icon.bottom-left-chip{height:64px;width:86px}}.justify-content-space-between{justify-content:space-between}.resp-iframe-container{overflow:hidden;padding-bottom:56.25%;position:relative}.resp-iframe{border:0;position:absolute;width:100%}.left-nav,.resp-iframe{height:100%;left:0;top:0}.left-nav{--left-nav-width:229px;background-color:#dfe2fe;background-position:0 0;display:none;min-height:100%;overflow:hidden;position:fixed;width:229px;z-index:25}.left-nav,.left-nav .logo{background-repeat:no-repeat}.left-nav .logo{background-position:center -40px;background-size:100%;height:180px}.left-nav .logo img{display:block;height:auto;margin:0 auto;max-width:70%}.left-nav.lazyloaded{background-image:url(https://aws-origin.image-tech-storage.com/websites/playojo.co.uk/images/sidebar/sidebar-bg.png)}.left-nav.lazyloaded .logo{background-image:url(https://aws-origin.image-tech-storage.com/websites/playojo.co.uk/images/sidebar/logo-bg-uk.png?v=4)}.left-nav.lazyloaded .menu-container{background-image:url(https://aws-origin.image-tech-storage.com/websites/playojo.co.uk/images/sidebar/sidebar-bg-bottom.png)}@media (min-width:1240px){.left-nav{display:block}}@media (min-width:1400px){.left-nav{--left-nav-width:258px;width:258px}.left-nav .logo{background-position:top;height:244px}.left-nav .logo img{max-width:100%}}.left-nav .form{min-height:182px;padding:0 20px}.left-nav .menu-container{background-position:bottom;background-repeat:no-repeat;max-height:calc(100vh - 391px);overflow:auto;padding:0 20px 20px}.left-nav .menu-container .menu-item{border-bottom:1px solid #6464ff33;color:#fff;font-size:14.4px;font-weight:700;padding:5px 10px;position:relative}.left-nav .menu-container .menu-item .sash{height:30px;left:0;position:absolute;top:0;width:30px}.left-nav .menu-container .menu-item:last-child{border-bottom:none}.left-nav .menu-container .menu-item a{align-items:center;color:inherit;display:flex;text-decoration:none}.left-nav .menu-container .menu-item a .ico{font-size:200%;text-shadow:0 0 20px #fff;width:40px}.left-nav .menu-container .menu-item a .ico-chevron-right{display:none;font-size:150%;margin-left:auto;text-shadow:none;width:auto}.left-nav .menu-container .menu-item.active,.left-nav .menu-container .menu-item:hover{color:#99005a;text-decoration:none}.left-nav .menu-container .menu-item.active a,.left-nav .menu-container .menu-item:hover a{text-decoration:none}.left-nav .menu-container .menu-item.active .ico-chevron-right{display:block}.mobile-menu{height:100%;left:-100%;overflow:hidden;position:fixed;right:0;top:0;transition:left .5s;width:100%;z-index:9999}.mobile-menu .mobile-menu-container{background-image:url(https://aws-origin.image-tech-storage.com/websites/playojo.co.uk/images/menu/mobile_portrait_menu.png?v=3);background-position:0 0;background-repeat:no-repeat;background-size:contain;left:0;position:relative;top:0;transform-origin:0 0}.mobile-menu .close-menu{color:#fff;display:block;font-size:30px;position:absolute;right:80px;text-decoration:none;top:0}.mobile-menu .menu-logo{display:block;left:0;margin:0 auto;max-width:208px;position:absolute;right:70px;top:12%}@media (min-width:768px){.mobile-menu .mobile-menu-container{background-image:url(https://aws-origin.image-tech-storage.com/websites/playojo.co.uk/images/menu/tablet_portrait_menu.png?v=3)}}.mobile-menu .inner-menu{display:grid;grid-auto-rows:minmax(100px,100px);grid-template-columns:repeat(3,1fr);left:22px;position:absolute;top:385px;width:300px}.mobile-menu .inner-menu .menu-item{align-items:center;display:flex;overflow:hidden;position:relative;text-align:center}.mobile-menu .inner-menu .menu-item .sash{background:#e33af7;color:#fff;font-size:15px;font-weight:600;left:-30px;padding:25px 25px 0;position:absolute;text-transform:uppercase;top:-10px;transform:rotate(-45deg)}.mobile-menu .inner-menu a{color:#fff;font-size:10px;font-weight:700;pointer-events:auto;text-decoration:none;width:100%}.mobile-menu .inner-menu a span{display:block;font-size:10px}.mobile-menu .inner-menu a .ico{display:block;font-size:250%;margin-bottom:5px}.mobile-menu .inner-menu .menu-item:nth-child(8) a{font-size:12px}.mobile-menu .inner-menu .menu-item.active a{color:#980355}body:before{background:#0000;content:"";position:absolute;transition:background .2s ease-in-out}body.sidebar-body-open{position:relative}body.sidebar-body-open:before{background:#00000080;height:100%;left:0;top:0;transition:background .2s ease-in-out;width:100%;z-index:998}.sidebar-body-open .mobile-menu{left:0}.footer{--license-text-size:12.33px;--license-text-color:#807a7a;--license-text-margin:0;--license-text-decoration:none;--license-text-link-color:#807a7a;--license-text-link-hover-color:#807a7a;background-color:#241415;color:#807a7a;font-size:12.33px;font-weight:700;width:100%}@media (min-width:1400px){.footer .container{max-width:1140px}}.footer .border-bottom{border-bottom:1px solid #393131}.footer a{color:#807a7a;text-decoration:none}.footer a:focus,.footer a:hover{outline:none}.footer .footer-links{color:#fff;flex-direction:column;font-weight:700}@media (min-width:992px){.footer .footer-links{flex-direction:row}}.footer .footer-links a{color:#fff;text-decoration:none;text-transform:uppercase}.footer .footer-social h3{font-size:inherit}.footer .footer-social .ico{color:#807a7a;font-size:30px}.footer-license,.footer-providers{font-family:muli;font-size:14px}.footer-license{--license-text-size:14px}.language-dropdown{margin:0;padding:0;position:fixed;right:0;top:100px;width:100px;z-index:100}.language-dropdown .dropdown-toggle{background:#4dd3a0;background:linear-gradient(#4dd3a0,#20b87d);border-bottom-left-radius:5px;border-top-left-radius:5px;box-shadow:-5px 6px 16px -2px #162e2666;color:#fff;cursor:pointer;font-size:1rem;font-weight:700;padding:15px 10px;text-transform:uppercase;width:100%}.language-dropdown .dropdown-menu{background:#ffffffe6;display:none;max-height:200px;overflow:hidden;overflow-y:auto;padding:3px 0 0;position:relative;width:100%;z-index:-1}.language-dropdown .dropdown-menu li{color:#888;padding:0 15px}.language-dropdown .dropdown-menu li a{border-bottom:1px solid #dadada;color:inherit;display:block;font-size:14px;font-weight:500;padding:7px 0 6px;text-decoration:none;width:100%}.language-dropdown .dropdown-menu li:hover{background:#ffffffb3;color:#302214}.language-dropdown.show{width:245px}.language-dropdown.show .dropdown-toggle{border-bottom-left-radius:0}.language-dropdown.show .dropdown-menu{display:block}.mobile-language-container{background:#0006;display:none;height:100%;left:0;overflow:auto;position:fixed;top:0;width:100%;z-index:9999}.mobile-language-container ul{background:#eee;list-style:none;margin:5% auto;max-height:90%;max-width:400px;padding:0;position:relative;width:90%}.mobile-language-container li{border-bottom:1px solid #dfdfdf;padding:0;position:relative;text-align:left}.mobile-language-container li a{color:#1f1f1f;display:block;font-size:16px;font-weight:500;padding:20px 0 20px 20px;position:relative;text-decoration:none;z-index:2}.mobile-language-container li:before{border:2px solid #6d6d6d;border-radius:50%;content:" ";height:15px;position:absolute;right:15px;top:50%;transform:translateY(-50%);width:15px;z-index:1}.mobile-language-container li:active:after{background:#009688;border-radius:50%;content:" ";height:7px;position:absolute;right:19px;top:50%;transform:translateY(-50%);width:7px;z-index:1}.mobile-language-container li:active:before{border-color:#009688}.curve-bottom-white{min-height:200px;padding-bottom:80px;padding-top:40px;position:relative}.curve-bottom-white .container{z-index:1}.curve-bottom-white:after{background-image:url("data:image/svg+xml;charset=utf-8,%3Csvg xmlns='http://www.w3.org/2000/svg' width='200' height='22'%3E%3Cpath fill='%23fff' d='M97.8 20.6c-21.2 0-42.1-2.4-61-6.9C23 10.3 10.6 5.9 0 .6V22h200V11.3c-10.1 2.2-20.6 4-31.3 5.4-23 3-47 4.4-70.9 3.9z'/%3E%3C/svg%3E");bottom:0;content:" ";height:200px;left:0;margin:0 auto;pointer-events:none;position:absolute;right:0;width:100%}.curve-bg-bottom-white,.curve-bottom-white:after{background-position:50%;background-repeat:no-repeat;background-size:cover}.curve-bg-bottom-white{padding-bottom:80px;padding-top:40px;position:relative}.curve-bg-bottom-white.lazyloaded{background-image:url(https://aws-origin.image-tech-storage.com/websites/playojo.co.uk/images/curves/bg_upd.jpg?v=4)}.curve-bg-bottom-white .container{position:relative;z-index:1}.curve-bg-bottom-white:after{background-image:url("data:image/svg+xml;charset=utf-8,%3Csvg xmlns='http://www.w3.org/2000/svg' width='200' height='22'%3E%3Cpath fill='%23fff' d='M97.8 20.6c-21.2 0-42.1-2.4-61-6.9C23 10.3 10.6 5.9 0 .6V22h200V11.3c-10.1 2.2-20.6 4-31.3 5.4-23 3-47 4.4-70.9 3.9z'/%3E%3C/svg%3E");background-position:50%;background-repeat:no-repeat;background-size:cover;bottom:0;content:" ";height:200px;left:0;margin:0 auto;pointer-events:none;position:absolute;right:0;width:100%}.btn-green{background:linear-gradient(180deg,#4dd39f,#21b77d);border:#0000;box-shadow:none;color:#fff;font-weight:700}.btn-green.active,.btn-green:active,.btn-green:focus,.btn-green:hover{background:linear-gradient(180deg,#4dd39f,#4dd39f);border-color:#0000;box-shadow:none;color:#fff}.btn-green.disabled,.btn-green:disabled{background:linear-gradient(180deg,#4dd39f,#21b77d);border-color:#0000;box-shadow:none;color:#fff}.btn-orange{background:#fcc208;border:#0000;border-radius:.375rem;box-shadow:none;color:#00004c;font-weight:900;transition:none}.btn-orange.btn-lg{border-radius:.625rem}.btn-orange.active,.btn-orange:active,.btn-orange:focus,.btn-orange:hover{background:linear-gradient(180deg,#ffd064,#ff0);border-color:#0000;box-shadow:none;color:#00004c}.btn-orange.disabled,.btn-orange:disabled{background:#fcc208;border-color:#0000;box-shadow:none;color:#00004c}.page-section .section-title{color:#fff}.page-section p{color:#fff;font-size:14px}@media (max-width:575.98px){.page-section p.align-text-bottom{bottom:8rem;position:absolute}}.page-section.section-light .section-title,.page-section.section-light p{color:#23208f}.hero-space{--hero-background:#27275f;--hero-color:#fff;--hero-padding:8px 10px;--hero-text-align:center;--hero-link-color:#fed349;--hero-link--hover-color:#fed349;min-height:calc(45.5163vw + 30px);position:relative}@media (min-width:992px){.hero-space{min-height:34.85577vw}}@media (min-width:1240px){.hero-space{min-height:calc(34.85577vw - 79.81971px)}}@media (min-width:1400px){.hero-space{min-height:calc(34.85577vw - 89.92788px)}}.hero-space .ico{font-size:20px}.games-grid-section .filters{list-style:none;overflow:hidden;overflow-x:auto;padding:0;width:100%}.games-grid-section .filters li{align-self:stretch;background:linear-gradient(#4dd39f,#20b77d);border-radius:4px;display:flex;flex:0 0 auto;font-family:Terfens;justify-content:center;margin-right:5px;overflow:hidden;padding:6px;position:relative;width:60px}.games-grid-section .filters a{color:#fff;font-size:.75rem;font-weight:700;text-align:center;text-decoration:none}.games-grid-section .filters .ico{font-size:22px}.games-grid-section .filters .ico.ico-reels{font-size:18px}.games-grid-section .filters .ico.ico-jackpot{font-size:12px}.games-grid-section .filters span{display:block;font-family:Terfens;line-height:1.1;margin-top:2px}.games-grid-section .filters .grid-view{color:#232556;cursor:pointer;font-size:1.75rem}.games-grid-section .filters .grid-view.active{color:#99005a}@media (min-width:768px){.games-grid-section .filters li{width:80px}.games-grid-section .filters .ico{font-size:32px}.games-grid-section .filters .ico.ico-reels{font-size:28px}.games-grid-section .filters .ico.ico-jackpot{font-size:22px}.games-grid-section .filters span{margin-top:5px}}@media (min-width:992px){.games-grid-section .filters li{align-self:center;background:#0000;display:block;margin-right:0;overflow:visible;padding:0;width:auto}.games-grid-section .filters a{color:#232556;font-size:1.125rem}.games-grid-section .filters a .ico{display:none}.games-grid-section .filters .ico{font-size:28px}}.games-grid-section .gamesContainer{margin-bottom:10px;min-height:182px;width:100%}.games-grid-section .gamesContainer#v-featured-games{min-height:170px}.games-grid-section .gamesContainer h3{color:#232359;font-size:14px;font-weight:700;margin:0 0 .625rem;padding:0}@media (min-width:768px){.games-grid-section .gamesContainer h3{font-size:1.125rem!important}}@media (min-width:992px){.games-grid-section .gamesContainer{background-color:#fff;box-shadow:0 0 15px #aaa;margin:0 auto 20px;max-width:1582px;padding:20px;scroll-margin-top:50px}.games-grid-section .gamesContainer h3{font-size:1.5rem;margin:0 0 1.25rem}}.games-grid-section .jackpot-counter{font-size:.875rem}.games-section .btn{bottom:0;left:50%;margin:0 auto;position:absolute;transform:translate(-50%);z-index:2}.fair-section{background-color:#fff}.fair-section .ico{font-size:5rem}.fair-section h3{font-size:1.5rem;text-transform:uppercase}.fair-section p{font-size:.875rem;font-weight:600}.fair-section .cash-block{-webkit-text-fill-color:#0000;background:linear-gradient(5deg,#8c238b,#f753f7);-webkit-background-clip:text;background-clip:text}.fair-section .wagering-block{-webkit-text-fill-color:#0000;background:linear-gradient(5deg,#0082c6,#00e1fb);-webkit-background-clip:text;background-clip:text}.fair-section .maxwin-block{-webkit-text-fill-color:#0000;background:linear-gradient(5deg,#f3191a,#fc8a02);-webkit-background-clip:text;background-clip:text}.fair-section .withdrawal-block{-webkit-text-fill-color:#0000;background:linear-gradient(5deg,#068d3a,#58fa03);-webkit-background-clip:text;background-clip:text}.fair-section .fair-video .btn-link{color:#d91300;display:block;text-decoration:none}.fair-section .fair-video .ico{font-size:3.75rem}.fair-section .fair-video p{font-size:1rem;text-align:left}@media (min-width:992px){.fair-section p{font-weight:400}.fair-section .fair-video .ico{font-size:5rem}.fair-section .fair-video p{font-size:1.625rem}}.ojogives-section{background-color:#fff}.ojogives-section h3{color:#00004d;font-size:1.3125rem}.ojogives-section p{color:#00004d!important;font-size:2.125rem}.ojogives-section .size{font-size:.875rem}.ojogives-section span{color:#00004d}.jackpot-section{background-color:#750074}.jackpot-section .jackpot-img{position:relative;top:-2.2rem;width:100%}.jackpot-section .section-content{margin-top:-12rem}@media (max-width:991.98px){.jackpot-section .section-content{margin-top:-8rem}}@media (max-width:575.98px){.jackpot-section .section-content{margin-top:-6rem}}.jackpot-section h2{margin-top:2rem}.jackpot-section .gamesContainer .gamesWrapper .gamesGrid .gameThumb img{border-radius:5px}.live-casino-section{background-position:top;background-repeat:no-repeat;background-size:cover;padding-top:2rem}.live-casino-section .container-fluid .live-index,.live-casino-section .container-lg .live-index,.live-casino-section .container-md .live-index,.live-casino-section .container-sm .live-index,.live-casino-section .container-xl .live-index,.live-casino-section .container-xxl .live-index{z-index:1}.live-casino-section .container-fluid p.live-casino-cta,.live-casino-section .container-lg p.live-casino-cta,.live-casino-section .container-md p.live-casino-cta,.live-casino-section .container-sm p.live-casino-cta,.live-casino-section .container-xl p.live-casino-cta,.live-casino-section .container-xxl p.live-casino-cta{font-family:Terfens;text-shadow:unset}.live-casino-section.lazyloaded{background-image:url(https://aws-origin.image-tech-storage.com/websites/playojo.co.uk/images/pages/home/live-casino-mobile.jpg?v=10);min-height:850px}@media (max-width:575.98px){.live-casino-section div.live-casino-text{bottom:7rem;left:1.5rem;margin-left:auto;margin-right:auto;position:absolute;right:1.5rem}.live-casino-section p.live-casino-cta{bottom:2rem;left:0;margin-left:auto;margin-right:auto;position:absolute;right:0}}@media (min-width:576px){.live-casino-section.lazyloaded{background-image:url(https://aws-origin.image-tech-storage.com/websites/playojo.co.uk/images/pages/home/live-casino.jpg?v=3);background-position:50%;background-repeat:no-repeat;background-size:cover;min-height:670px;padding-top:6rem}.live-casino-section div.live-casino-text{margin-left:3rem;margin-right:3rem;margin-top:1rem}.live-casino-section p.live-casino-cta{margin-top:3rem}.live-casino-section .live-casino-left-character{bottom:1vw;left:0;position:absolute}.live-casino-section .live-casino-right-character{bottom:0;position:absolute;right:0}}@media (min-width:768px){.live-casino-section .live-casino-left-character{width:25vw}.live-casino-section .live-casino-right-character{width:60vw}}@media (min-width:1240px){.live-casino-section .live-casino-left-character{width:19vw}.live-casino-section .live-casino-right-character{width:52vw}}.live-casino-section .btn-link{color:#d91300;font-size:5.625rem;text-decoration:none}.live-casino-section .btn-link .ico{position:relative;z-index:5}.live-casino-section .btn-link .ico:after{background:#fff;content:"";height:50%;left:50%;position:absolute;top:50%;transform:translate(-50%,-50%);width:50%;z-index:-1}.live-casino-section .section-title,.live-casino-section p{text-shadow:1px 1px 0 #000}.safe-section{background-color:#fff}.safe-section .ico{color:#99005a;font-size:5rem}.reviews-section{padding-bottom:100px;padding-top:70px}.reviews-section.lazyloaded .item:nth-child(2n){background-image:url(https://aws-origin.image-tech-storage.com/websites/playojo.co.uk/images/pages/home/cloud-left.png)}.reviews-section.lazyloaded .item:nth-child(odd){background-image:url(https://aws-origin.image-tech-storage.com/websites/playojo.co.uk/images/pages/home/cloud-right.png)}.reviews-carousel{position:relative;width:440px}.reviews-carousel .carousel-inner{overflow:hidden;position:relative;transform-style:preserve-3d}.reviews-carousel .item{align-items:center;background-position:50%;background-repeat:no-repeat;background-size:100% 100%;color:#00004a;display:flex;flex-direction:column;flex-wrap:wrap;font-weight:700;justify-content:center;left:0;margin:0;min-height:140px;opacity:0;position:absolute;top:0;transition:transform .5s,opacity .5s,z-index .5s;width:350px;z-index:100}.reviews-carousel .item:nth-child(2n){padding:15px 15px 15px 75px}.reviews-carousel .item:nth-child(odd){padding:15px 75px 15px 15px}.reviews-carousel .item p{color:#00004a}.reviews-carousel .item .text-uppercase{display:block;text-align:right;text-transform:uppercase}.reviews-carousel .item.active{opacity:1;position:relative;top:0;z-index:102}.reviews-carousel .item.next,.reviews-carousel .item.prev{z-index:101}.reviews-carousel .item.prev{transform:translateY(-100%)}.reviews-carousel .item.next{transform:translateY(100%)}.reviews-carousel .item.next.left,.reviews-carousel .item.prev.right{top:0}.reviews-carousel .item.active.left{top:-100%}.reviews-carousel .item.active.right{top:100%}.reviews-carousel .left,.reviews-carousel .right{color:#fff;cursor:pointer;font-size:1.875rem;position:absolute;right:0;text-decoration:none}.reviews-carousel .right{bottom:-40px}.reviews-carousel .left{top:-40px;transform:rotate(180deg)}.blog-section{background-color:#fff}.awards-section{background-repeat:no-repeat;background-size:cover}.awards-section.lazyloaded{background-image:url(https://aws-origin.image-tech-storage.com/websites/playojo.co.uk/images/pages/home/awards.jpg)}.btn-orange{font-family:Terfens}.blog-box h3,.blog-box p{color:#23208f!important}.red-beam{background-color:#c50319;color:#fff;padding:5px 0;text-align:center}.red-beam p{font-size:11px}.red-beam a{color:#fad33e}
+    </style>
+        <!-- TrustBox script -->
+            <script type="text/javascript" src="//widget.trustpilot.com/bootstrap/v5/tp.widget.bootstrap.min.js?v=1739871529" async></script>
+        <!-- End TrustBox script -->
+
+    <link rel="modulepreload" as="script" href="https://service.image-tech-storage.com/workers/webcomponents.d8a372da.js"><link rel="ais" href="https://aws-origin-dev.image-tech-storage.com/playojo.co.uk/images/ais-logo.png">
+<style id="ais">
+:root{
+    --ais-font-family: 'Terfens';
+    --ais-gb: url('https://aws-origin-dev.image-tech-storage.com/playojo.co.uk/images/ojo-bg.jpg') center / cover no-repeat;
+    --ais-logo-height: auto;
+    --ais-logo-width: none;
+    --ais-logo-max-width: 50%;
+    --ais-logo-max-height: none;
+    --ais-curve-bg: #ececec;
+    --ais-browser-text-color: #26275f;
+    --ais-dismiss-text-color: #7e7e7e;
+    --ais-nav-bg: #26275f;
+    --ais-nav-menu-color: #fff;
+    --ais-nav-btn-color: #000;
+    --ais-nav-btn-bg: linear-gradient(180deg,#fcff00,#fed349 88%,#fbd25c);
+    --interstitial-modal-header-background: #232558;
+    --interstitial-modal-background: linear-gradient(120deg,#190072 15%,#081ac2 51%,#ff03cf 100%);
+    --ais-title-font-family: 'bree';
+	--ais-browser-font-family: 'muli';
+	--ais-dismiss-font-family: 'muli';
+}
+</style>
+
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-PLJ8G8');</script>
+<!-- End Google Tag Manager -->
+<script src="https://analytics.ahrefs.com/analytics.js" data-key="Bn29AEG7LzVMP5/QSL51Kw" defer="true"></script><script id="son-sw">
+                        if ('serviceWorker' in navigator) {
+                            navigator.serviceWorker.register('/son-sw.js').then(function(registration) {
+                                console.log('SkillOnNet Service worker registration succeeded');
+                            }).catch(function(error) {
+                                console.log('SkillOnNet Service worker registration failed', error);
+                            });
+                        }
+                    </script><link rel="manifest" href="/manifest.webmanifest">
+		        	
+		        	<script id="son-scripts">
+                        var SON_PROMPT = null;
+						window.addEventListener('beforeinstallprompt', function(event){
+						    event.preventDefault();
+						    SON_PROMPT = event
+						});
+					</script></head>
+    <body class="en">
+
+
+
+        <!-- Google Tag Manager noScript -->
+<noscript>
+    <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PLJ8G8" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+</noscript>
+<!-- End Google Tag Manager noScript -->
+                                <div class="mobile-language-container">
+                <ul><li><a onclick="" class="dropdown-item" href="https://www.playojo.com/de/">de</a></li><li><a onclick="" class="dropdown-item" href="https://www.playojo.com/fi/">fi</a></li><li><a onclick="" class="dropdown-item" href="https://www.playojo.com/no/">no</a></li><li><a onclick="" class="dropdown-item" href="https://www.playojo.com/ca/">English (CA)</a></li><li><a onclick="" class="dropdown-item" href="https://www.playojo.com/fr-ca/">fr_ca</a></li><li><a onclick="" class="dropdown-item" href="https://www.playojo.com/nz/">en_nz</a></li><li><a onclick="" class="dropdown-item" href="https://www.playojo.com/ie/">en_ie</a></li></ul>
+            </div>
+            <div class="language-dropdown d-none d-xl-block">
+                <div class="dropdown-toggle">en</div>
+                <ul class="dropdown-menu"><li><a onclick="" class="dropdown-item" href="https://www.playojo.com/de/">de</a></li><li><a onclick="" class="dropdown-item" href="https://www.playojo.com/fi/">fi</a></li><li><a onclick="" class="dropdown-item" href="https://www.playojo.com/no/">no</a></li><li><a onclick="" class="dropdown-item" href="https://www.playojo.com/ca/">English (CA)</a></li><li><a onclick="" class="dropdown-item" href="https://www.playojo.com/fr-ca/">fr_ca</a></li><li><a onclick="" class="dropdown-item" href="https://www.playojo.com/nz/">en_nz</a></li><li><a onclick="" class="dropdown-item" href="https://www.playojo.com/ie/">en_ie</a></li></ul>
+            </div>
+                    
+        
+            
+            
+                <div class="mobile-menu">
+                    <div class="mobile-menu-container">
+                        <div class="close-menu">
+                            <i class="ico ico-close"></i>
+                        </div>
+                        <a href="/" class="menu-logo">
+                                                            <img data-src="https://aws-origin.image-tech-storage.com/playojo.co.uk/images/big-logo-uk.png?v=1739871529" class="img-fluid mx-auto lazyload">
+                                                    </a>
+                        <div class="inner-menu">
+                            <div class="menu-item active">
+                                <a href="/"><i class="ico ico-home"></i>HOME</a>
+                            </div>
+                            <div class="menu-item not-active">
+                                <a href="/games/"><i class="ico ico-games"></i>CASINO</a>
+                            </div>
+                                                        
+                            <div class="menu-item not-active">
+                                <a href="/kickers/"><i class="ico ico-kickers"></i>KICKERS</a>
+                            </div>
+                            <div class="menu-item not-active">
+                                <a href="/about/"><i class="ico ico-about"></i>ABOUT OJO</a>
+                            </div>
+                            <div class="menu-item not-active">
+                                <a href="/specials/"><i class="ico ico-specials"></i>OJO'S SPECIALS</a>
+                            </div>
+                            <div class="menu-item not-active">
+                                <a href="/help/"><i class="ico ico-help"></i>HELP</a>
+                            </div>
+                                                                                        <div class="menu-item">
+                                    <a href="#" id="open-language">EN <i class="caret"></i><span>LANGUAGE</span></a>
+                                </div>
+                                                    </div>
+                    </div>
+                </div>
+
+                <div class="left-nav lazyload">
+
+                    <div class="logo">
+                        <a href="/">
+                                                            <img width="259" height="243" data-src="https://aws-origin.image-tech-storage.com/playojo.co.uk/images/sidebar/logo.png?v=1739871529" class="lazyload img-fluid mx-auto d-block">
+                                                        
+                        </a>
+                    </div>
+
+                <div class="form">
+                    <son-login layout="vertical"></son-login>
+                </div>
+
+                <div class="menu-container">
+                    <div class="menu-item active">
+                        <a href="/">
+                            <i class="ico ico-home"></i>HOME <i class="ico ico-chevron-right"></i>
+                        </a>
+                    </div>
+                    <div class="menu-item not-active">
+                        <a href="/games/">
+                            <i class="ico ico-games"></i>CASINO <i class="ico ico-chevron-right"></i>
+                        </a>
+                        <div id="v-game-filters"></div>
+                    </div>
+                                        <div class="menu-item not-active">
+                        <a href="/kickers/">
+                            <i class="ico ico-kickers"></i>KICKERS <i class="ico ico-chevron-right"></i>
+                        </a>
+                    </div>
+                    <div class="menu-item not-active">
+                        <a href="/specials/">
+                            <i class="ico ico-specials"></i>OJO'S SPECIALS <i class="ico ico-chevron-right"></i>
+                        </a>
+                    </div>
+                    <div class="menu-item not-active">
+                        <a href="/about/">
+                            <i class="ico ico-about"></i>ABOUT OJO <i class="ico ico-chevron-right"></i>
+                        </a>
+                    </div>
+                    <div class="menu-item not-active">
+                        <a href="/help/">
+                            <i class="ico ico-help"></i>HELP <i class="ico ico-chevron-right"></i>
+                        </a>
+                    </div>
+                </div>
+            </div>
+
+        
+        <div class="right-content">
+
+                            <div class="top-content">
+                    <son-beam begambleaware="dark" imagecolor='yellow'></son-beam>
+                    <div class="top-nav pt-2 pb-2 pl-2 pr-2 d-xl-none">
+                        <div class="container-fluid g-0">
+                            <div class="row g-0 align-items-center">
+                                <div class="col-4 d-flex align-items-center">
+                                    <a href="#" class="d-block mr-2 button-menu">
+                                        <i class="ico ico-menu"></i>
+                                    </a>
+                                                                            <a href="/">
+                                                                            <img width="40" height="34" data-src="https://aws-origin.image-tech-storage.com/playojo.co.uk/images/mobile/logo.png" class="d-block lazyload">
+                                    </a>
+                                </div>
+                                <div class="col-8 d-flex justify-content-end">
+                                    <a onclick="Javascript:openLogin();void(0);" class="btn mr-2 btn-white">LOGIN</a>
+                                    <a onclick="Javascript:openRegistration();void(0);" class="btn btn-yellow">JOIN NOW</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <link rel="preload" as="image" href="https://bnrs-cdn.image-tech-storage.com/api_welcome_offers/logged_out/playojo/allowed_bod/desktop_welcome_en.jpg?v=3"/><script>
+    var SON_HERO = [{"id":1,"action":"Javascript:openAuth();void(0);","creatives":{"desktop":{"url":"https:\/\/bnrs-cdn.image-tech-storage.com\/api_welcome_offers\/logged_out\/playojo\/allowed_bod\/desktop_welcome_en.jpg?v=3","s3":"s3:\/\/bnrs-cdn.image-tech-storage.com\/api_welcome_offers\/logged_out\/playojo\/allowed_bod\/desktop_welcome_en.jpg?v=3","type":"image"},"mobile":{"url":"https:\/\/bnrs-cdn.image-tech-storage.com\/api_welcome_offers\/logged_out\/playojo\/allowed_bod\/mobile_welcome_en.jpg?v=3","s3":"s3:\/\/bnrs-cdn.image-tech-storage.com\/api_welcome_offers\/logged_out\/playojo\/allowed_bod\/mobile_welcome_en.jpg?v=3","type":"image"},"secondary":null},"delay":7,"ext_url":null,"order":10000,"position":"hero","position_index":null,"sticky":true,"target":"","terms":{"enabled":true,"text":{"banner_action":"OJO\u2019s Rewards and Game Play policy applies.","banner_text":"First deposit only. 50 Free Spins on Book of Dead slot. Free Spin valued at 0.10\u20ac. Irregular play may lead to removal of rewards.","banner_mobile":"Terms and Conditions Apply."},"action":"ext_url","ext_url":"https:\/\/son-direct.com\/?appName=PlayOJO&lang=EN&name=bonus_policy","target":""},"groups":[]},{"id":2521,"action":"Javascript:openAuth();void(0);","creatives":{"desktop":{"url":"https:\/\/bnrs-cdn.image-tech-storage.com\/api_specials\/cashrain\/lo\/playojo\/hero_en.jpg","s3":"s3:\/\/bnrs-cdn.image-tech-storage.com\/api_specials\/cashrain\/lo\/playojo\/hero_en.jpg","type":"image"},"mobile":{"url":"https:\/\/bnrs-cdn.image-tech-storage.com\/api_specials\/cashrain\/lo\/playojo\/hero_mob_en.jpg","s3":"s3:\/\/bnrs-cdn.image-tech-storage.com\/api_specials\/cashrain\/lo\/playojo\/hero_mob_en.jpg","type":"image"},"secondary":null},"delay":7,"ext_url":null,"order":9990,"position":"hero","position_index":[],"sticky":false,"target":"","terms":{"enabled":true,"text":{"banner_action":"OJO's Rewards and Game Play Policy Applies.","banner_text":"Runs 13\/01\/25 - 30\/06\/25. No min. Bet. Qualifying games apply. ","banner_mobile":"Terms Apply."},"ext_url":null,"action":"Javascript:void(0);","target":""},"groups":[]}];
+    var pageConfig = {
+        resDomain: 'https://aws-origin.image-tech-storage.com/playojo.co.uk',
+        translations: {
+            'What can I help you find amigo?': 'What can I help you find?',
+            'FEATURED GAMES': 'FEATURED GAMES',
+            'LOAD MORE': 'LOAD MORE',
+            'Must be now drop in': 'Must drop in <span class="daily-timer2" countdown data-time="DATESTRING" data-current="DATECURRENT"></span>',
+        },
+        gamesPage: '/games/',
+        isBingo: false    }
+</script>
+<div class="hero-space">
+    <son-hero
+        controls="true"
+        indicators="true"
+        position="center"
+    >
+        <i slot="prev" class="ico ico-chevron-left"></i>
+        <i slot="next" class="ico ico-chevron-right"></i>
+    </son-hero>
+</div>
+<div class="games-grid-section">
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-12 col-xl-12 col-xxl-10 offset-xxl-1">
+                <ul class="filters d-flex pb-3 pb-lg-0 mr-0 ml-0 mt-3 mb-3 mt-lg-5 mb-lg-5 align-items-center justify-content-start justify-content-lg-evenly">
+                    <li id="v-grid-selector" class="order-first d-none d-lg-flex"></li>
+                    <li class="order-first d-lg-none">
+                        <a href="/games/?openSearch=true">
+                            <i class="ico ico-search"></i>
+                            <span>SEARCH</span>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="/slots/">
+                            <i class="ico ico-reels"></i>
+                            <span>SLOTS</span>
+                        </a>
+                    </li>
+                    
+                    <li>
+                        <a href="/roulette/">
+                            <i class="ico ico-roulette d-lg-none"></i>
+                            <span class="d-none d-lg-block">ROULETTE</span>
+                            <span class="d-lg-none">ROULETTE</span>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="/blackjack/">
+                            <i class="ico ico-blackjack"></i>
+                            <span>BLACKJACK</span>
+                        </a>
+                    </li>
+                    <li class="order-lg-1">
+                        <a href="/live-casino/">
+                            <i class="ico ico-livecasino"></i>
+                            <span>LIVE CASINO</span>
+                        </a>
+                    </li>
+                    <li class="order-lg-1 ">
+                        <a href="/games/?category=lite-play-popular">
+                            <i class="ico ico-ball_90"></i>
+                            <span>LITE PLAY</span>
+                        </a>
+                    </li>
+                    <li class="order-lg-1">
+                        <a href="/jackpot/">
+                            <i class="ico ico-jackpot"></i>
+                            <span class="d-none d-lg-block">JACKPOTS</span>
+                            <span class="d-lg-none">JACKPOTS</span>
+                        </a>
+                    </li>
+                    <li class="order-lg-1">
+                        <a href="/games/?category=live-show-games">
+                            <i class="ico ico-game_shows"></i>
+                            <span>GAME SHOWS</span>
+                        </a>
+                    </li>
+                    
+                    <li class="order-lg-1 ">
+                        <a href="/video-poker/">
+                            <i class="ico ico-cardplay"></i>
+                            <span>CARD GAME</span>
+                        </a>
+                    </li>
+                    
+                                                            <li class="order-lg-1 ">
+                        <a href="/bingo/slingo/">
+                            <i class="ico ico-ball_90"></i>
+                            <span>SLINGO</span>
+                        </a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+        <div class="row d-none d-lg-flex">
+            <div id="v-search" class="mt-4 mb-4 col-12 col-sm-8 offset-sm-2 col-md-8 offset-md-2"></div>
+        </div>
+                <div class="row">
+            <div class="col-12">
+                <div class="gamesContainer" id="v-featured-games">
+                    <h3>FEATURED GAMES</h3>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="page-section section-light games-section curve-bottom-white pt-0">
+    <div class="container text-center">
+        <div class="row">
+            <div class="col-12 col-xl-10 offset-xl-1 col-xxl-8 offset-xxl-2">
+                <h1 class="section-title fw-black mt-6 mb-4">Welcome to PlayOJO online casino, where nothing gets in the way of fun!</h1>
+
+                <p class="fw-bold mb-2">Get that OJO feeling at PlayOJO, the home of real money casino games and feel-good fun! Choose from thousands of classic casino games, including  <a href="/slots/" target="_blank">online slots</a>, <a href="/blackjack/" target="_blank">blackjack</a> and <a href="/roulette/" target="_blank">roulette</a>. At our UK online casino, your fun is our top priority!</p>
+                <p class="fw-bold mb-2">We’re not just the fun guys - we’re the fair guys too, with Money Back on every Spin, all Wins from Bonuses paid in Cash and No Wagering Requirements, ever!</p>
+                <p class="fw-bold mb-2">You couldn’t be in safer hands at OJO’s online casino, with neat tools like <a href="/responsible-gaming/safemate/" target="_blank">‘Safe Mate’</a>, ‘Take A Break’ and ‘Deposit Limits’ that help you play safe.</p>
+                <a href="/games/?category=all" target="_blank" class="btn btn-lg btn-green">VIEW ALL GAMES</a>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="page-section section-light fair-section pt-5 pb-3 text-center">        
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-12">
+                <h2 class="section-title fw-black mt-6 mb-4">What makes PlayOJO UK<br/> online casino so awesome?</h2>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-10 offset-1 col-sm-6 offset-sm-3 offset-md-0 col-md-6 col-xl-3">
+                <i class="ico ico-fun cash-block"></i>
+                <p class="mt-3">We make fun go further with Money Back on every Spin, whether you win or lose!</p>
+            </div>
+            <div class="col-10 offset-1 col-sm-6 offset-sm-3 offset-md-0 col-md-6 col-xl-3">
+                <i class="ico ico-fair wagering-block"></i>
+                <p class="mt-3">Any Wins from Bonuses are paid in real money. Coz that’s fair, right?</p>
+            </div>
+            <div class="col-10 offset-1 col-sm-6 offset-sm-3 offset-md-0 col-md-6 col-xl-3">
+                <i class="ico ico-easy maxwin-block"></i>
+                <p class="mt-3">With No Wagering or Minimum Withdrawals, your money is yours – no fuss, no muss.</p>
+            </div>
+            <div class="col-10 offset-1 col-sm-6 offset-sm-3 offset-md-0 col-md-6 col-xl-3">
+                <i class="ico ico-safe withdrawal-block"></i>
+                <p class="mt-3">We’ve got your back – with handy Safer Gambling tools like our exclusive ‘Safe Mate’.</p>
+            </div>
+        </div>
+        <!-- <div class="row">
+            <div class="col-12 fair-video d-flex align-items-center justify-content-center">
+                <div id="v-promo-video"></div>
+                <p class="fw-bold mb-0">Wanna know more? Get some popcorn and watch the OJO trailer!</p>
+            </div>              
+        </div> -->
+    </div>
+</div>
+
+<div class="page-section meetojo-section curve-bg-bottom-white text-center pt-0 lazyload">
+    <div class="container">
+        <div class="row">
+            <div class="col-12">
+                <h2 class="section-title fw-black mb-4 mt-6">Meet OJO<sup>plus</sup></h2>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-12 col-xl-8 offset-xl-2 col-xxl-6 offset-xxl-3">
+                <div class="row align-items-center">
+                    <div class="col-12 col-md-12 col-lg-12 col-xl-12 offset-lg-1 offset-xl-0">              
+                        <p class="mb-3">Whichever casino game you choose to play at our online casino, you’ll get money back every time you play, win or lose. That’s right, OJOplus, gives you more bang for your buck, and the money you earn goes straight back into your account for you to use at our UK casino … or withdraw. Whatever floats your boat - your playtime, your choice!</p>  
+                    </div>
+                    <!-- <div class="col-12 col-md-6 col-lg-5 col-xl-6" id="v-meet-video"></div> -->
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="page-section section-light ojogives-section pt-5 pb-6 text-center">
+    <div class="container">
+        <div class="row">
+            <div class="col-12">
+                <h2 class="section-title fw-black">At PlayOJO we like to give you more</h2>
+                <p class="size">As the home of feelgood fun, it’s our job to make sure our online casino games deliver – whether it’s high RTPs, big prizes or money back on every game.</p>
+            </div>
+        </div>
+        <div class="row align-items-end">
+            <div class="col-10 offset-1 offset-md-0 col-md-4">
+                <img width="215" height="124" data-src="https://aws-origin.image-tech-storage.com/playojo.co.uk/images/home/new-section/big-bass-splash.jpg?v=1739871529" class="img-fluid mx-auto d-block lazyload">
+                <h3 class="fw-bold mt-3 mb-2">HIGHEST <br/> PAYING GAME</h3>
+                <p class="fw-bold mb-0" class="fw-bold">€3,002,141</p>
+                
+            </div>
+            <div class="col-10 offset-1 offset-md-0 col-md-4">
+                <img width="321" height="124" data-src="https://aws-origin.image-tech-storage.com/playojo.co.uk/images/home/new-section/ojo-plus-new.png" class="img-fluid mx-auto d-block lazyload">
+                <h3 class="fw-bold mt-3 mb-2">TOTAL OJOplus <br/> COLLECTED</h3>
+                <p class="fw-bold mb-0">€105,636</p>
+            </div>
+            <div class="col-10 offset-1 offset-md-0 col-md-4">
+                <img width="317" height="124" data-src="https://aws-origin.image-tech-storage.com/playojo.co.uk/images/home/new-section/payouts-new.png" class="img-fluid mx-auto d-block lazyload">
+                <h3 class="fw-bold mt-3 mb-2">TOTAL GAMES <br/> PAYOUT</h3>
+                <p class="fw-bold mb-0">€121,647,060</p>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-12">
+                
+                
+                <span class="fw-bold">*January 2025, Numbers</span>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+<div class="page-section jackpot-section pb-5">
+    <div>
+      <img width="1579" height="339" data-src="https://aws-origin.image-tech-storage.com/playojo.co.uk/images/home/jackpots.png?v=1739871529" class="lazyload img-fluid mx-auto jackpot-img d-none d-md-block">
+      <img width="395" height="233" data-src="https://aws-origin.image-tech-storage.com/playojo.co.uk/images/home/jackpots-mobile.png?v=1739871529" class="lazyload img-fluid mx-auto jackpot-img d-block d-md-none">
+    </div>
+    <div class="container-fluid section-content">
+        <div class="row">
+            <div class="col-12 col-lg-8 offset-lg-2">
+                <div class="gamesContainer" id="v-jackpot-show"></div>
+            </div>
+        </div>
+        <div class="row mx-auto text-center">
+            <div class="col-12 col-lg-8 offset-lg-2">
+                <h2 class="section-title text-center fw-black">Jackpot Games </h2>
+                <p>Let the games begin at OJOs’ real money casino with over <strong>290 Jackpot slots</strong> to choose from, including online casino slots like <strong>Divine Fortune, Cleopatra</strong> and <a href="https://www.playojo.com/slots/rainbow-riches/">Rainbow Riches</a>. Try your luck at landing one of our eye-popping <strong>Progressive Jackpots</strong> , or a <strong>Mega Jackpot</strong> could be a spin away with <strong>over 80 Must Drop Jackpot</strong> games like <strong>Pirates’ Plenty</strong> and <strong>Dynamite Riches MEGAWAYS</trong>!</p>
+                <p>Choice is part of the fun at PlayOJO, a real money online casino packed with all sorts of different jackpots. Experience progressives in online casino games like Snake Arena, fixed jackpots in games like 9 Masks of Fire, and timed jackpots like Red Tiger’s Daily Jackpots.</p>
+                <p class="mt-4 mb-2">
+                    <a href="/jackpot/" class="btn btn-lg btn-orange text-center">
+                        PLAY NOW                    </a>
+                </p>
+            </div>
+        </div>   
+    </div>
+</div>
+
+<div class="page-section live-casino-section curve-bottom-white lazyload">
+    <div class="container-fluid">
+        <div class="row mx-auto text-center">
+            <!-- <div class="col-12 col-md-8 offset-md-2 col-lg-6 offset-lg-3 mb-4 d-md-block d-none" id="v-ojo-video"></div> -->
+            <div class="col-12 col-md-8 offset-md-2 col-lg-6 offset-lg-3 live-index">
+                <h2 class="section-title fw-black">Live Casino Games <br />and Live Game Shows</h2>
+                <!-- <div class="col-12 d-md-none d-block" id="v-ojo-video-mobile"></div> -->
+                <div class="live-casino-text">
+                    <p>Enjoy live casino with OJO 24/7! Choose from over <strong>60 Live Casino games</strong>, including OJO’s Exclusive Blackjack and Roulette Tables, as well as  <strong>Live Game Show</strong> hits like <strong>Dream Catcher</strong>, <strong>Monopoly Live</strong> and <strong>Gonzo’s Treasure Hunt Live</strong>.</p>
+                    <p>We reckon these are hands down the best online casino games ever. Wanna see for yourself? Our hosts are waiting!</p>
+                </div>
+                <p class="live-casino-cta"><a href="/live-casino/" class="btn btn-lg btn-orange text-center">PLAY NOW</a></p>
+            </div>
+        </div>
+    </div>
+    <div class="live-casino-left-character d-md-block d-none">
+        <img data-src="https://aws-origin.image-tech-storage.com/playojo.co.uk/images/home/live-casino-left-character.png?v=1739871529" class="lazyload img-fluid mx-auto live-casino-left-character">                    
+    </div>
+    <div class="live-casino-right-character d-md-block d-none">
+        <img data-src="https://aws-origin.image-tech-storage.com/playojo.co.uk/images/home/live-casino-right-character.png?v=1739871529" class="lazyload img-fluid mx-auto live-casino-right-character">             
+    </div>
+</div>
+
+<div class="page-section section-light safe-section pt-5 pb-5 text-center">
+    <div class="container">
+        <div class="row">
+            <div class="col-12">
+                <h2 class="section-title mt-2 mb-4 fw-black">We're making gambling safer</h2>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-8 offset-2 col-sm-12 offset-sm-0">
+                <div class="row">
+                    <div class="col-12 col-sm-4">
+                        <i class="ico ico-ojo-brand-name"></i>
+                        <p class="mt-2">We believe when you can play online casino games for real money, you should always have fun and be safe.</p>
+                    </div>
+                    <div class="col-12 col-sm-4">
+                        <i class="ico ico-ojo-brand-clock"></i>
+                        <p class="mt-2">Make OJO your safe sidekick with playtime reminders, deposit limits and more.</p>
+                    </div>
+                    <div class="col-12 col-sm-4">
+                        <i class="ico ico-safeguard"></i>
+                        <p class="mt-2">Whatever responsible gambling support you need to manage your play, OJO's here.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-12">
+                <a href="/responsible-gaming/" target="_blank" class="btn btn-orange">
+                    READ MORE                </a>
+            </div>          
+        </div>
+    </div>
+</div>
+
+<section class="page-section reviews-section curve-bg-bottom-white lazyload">
+        <div class="container"> 
+            <div class="row align-items-center">
+                <div class="col-12 col-md-12 col-xl-12 text-center">
+                    <h2 class="section-title fw-black">What do our players think?</h2>
+                                    </div>  
+                                <div class="row justify-content-center mt-4">
+                    <div class="col-12 col-lg-6 col-xl-5">
+                                              <img width="846" height="380" data-src="https://aws-origin.image-tech-storage.com/playojo.co.uk/images/home/trustpilot-new/trustpilot-dt.png?v=1739871529" class="mb-4 mb-xxl-0 img-fluid d-none d-lg-block mx-auto lazyload">
+                       <img width="3634" height="1263" data-src="https://aws-origin.image-tech-storage.com/playojo.co.uk/images/home/trustpilot-new/trustpilot-mob.png?v=1739871529" class="mb-4 mb-xxl-0 img-fluid d-block d-lg-none mx-auto lazyload">
+                    </div>
+                    <!-- TrustBox widget - Slider -->
+                                        <!-- End TrustBox widget -->
+                                       
+                </div>
+            </div>
+        </div>
+    </section>
+<div class="page-section section-light blog-section pt-5 pb-5">
+    <div class="container">
+        <div class="row">
+            <div class="col-12">
+                <h2 class="section-title mt-2 mb-4 fw-black text-center">The latest OJO news</h2>
+                <div id="v-blog-posts"></div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-12 text-center">
+                <a class="btn btn-orange btn-lg" target="_blank" href="/blog/">GO TO BLOG</a>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="page-section awards-section pt-5 pb-5 lazyload">
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-12">
+                <h2 class="section-title text-center fw-black mb-5">It's not just OJOers who win</h2>
+                <p class="text-center mb-5 mb-md-0">It’s our mission to be the top casino online, from games and rewards to fairness and fun. And so far, we’re doing alright! </p> 
+            </div>
+        </div>
+        
+        <div class="row align-items-lg-center mb-4 justify-content-center">
+            <div class="col-12 col-xxl-10">
+                <div class="row align-items-lg-center justify-content-center">
+                    <div class="col-4 col-xxl-2">
+                        <img width="182" height="162" data-src="https://aws-origin.image-tech-storage.com/playojo.co.uk/images/home/new-section/awards/egr-casino-operator-2024.png?v=1739871529" class="mb-4 mb-xxl-0 img-fluid d-block mx-auto lazyload">
+                    </div>
+                    <div class="col-4 col-xxl-2">
+                        <img width="182" height="162" data-src="https://aws-origin.image-tech-storage.com/playojo.co.uk/images/home/new-section/awards/egr-slots-operator-2024.png?v=1739871529" class="mb-4 mb-xxl-0 img-fluid d-block mx-auto lazyload">
+                    </div>
+                    <div class="col-4 col-xxl-2">
+                        <img width="182" height="162" data-src="https://aws-origin.image-tech-storage.com/playojo.co.uk/images/home/new-section/awards/which-bingo-2024.png?v=1739871529" class="mb-4 mb-xxl-0 img-fluid d-block mx-auto lazyload">
+                    </div>
+                    <div class="col-4 col-xxl-2">
+                        <img width="182" height="162" data-src="https://aws-origin.image-tech-storage.com/playojo.co.uk/images/home/new-section/awards/egr-mobile-casino-2023.png?v=1739871529" class="mb-4 mb-xxl-0 img-fluid d-block mx-auto lazyload">
+                    </div>
+                    <div class="col-4 col-xxl-2">
+                        <img width="182" height="162" data-src="https://aws-origin.image-tech-storage.com/playojo.co.uk/images/home/new-section/awards/egr-slot-operator-2023.png?v=1739871529" class="mb-4 mb-xxl-0 img-fluid d-block mx-auto lazyload">
+                    </div>
+                    <div class="col-4 col-xxl-2">
+                        <img width="182" height="162" data-src="https://aws-origin.image-tech-storage.com/playojo.co.uk/images/home/new-section/awards/2023-best-casino.png?v=1739871529" class="mb-4 mb-xxl-0 img-fluid d-block mx-auto lazyload">
+                    </div>
+                    <div class="col-4 col-xxl-2">
+                        <img width="182" height="162" data-src="https://aws-origin.image-tech-storage.com/playojo.co.uk/images/home/new-section/awards/2023--brand-of-the-year.png?v=1739871529" class="mb-4 mb-xxl-0 img-fluid d-block mx-auto lazyload">
+                    </div>
+                    <div class="col-4 col-xxl-2">
+                        <img width="182" height="162" data-src="https://aws-origin.image-tech-storage.com/playojo.co.uk/images/home/new-section/awards/egr-operator-of-the-year-2023.png?v=1739871529" class="mb-4 mb-xxl-0 img-fluid d-block mx-auto lazyload">
+                    </div>
+
+
+                    <div class="col-4 col-xxl-2">
+                        <img width="182" height="162" data-src="https://aws-origin.image-tech-storage.com/playojo.co.uk/images/home/new-section/awards/digital-growth-2022.png?v=1739871529" class="mb-4 mb-xxl-0 img-fluid d-block mx-auto lazyload mt-3">
+                    </div>
+                    <div class="col-4 col-xxl-2">
+                        <img width="182" height="162" data-src="https://aws-origin.image-tech-storage.com/playojo.co.uk/images/home/new-section/awards/pragmatic-2021.png?v=1739871529" class="mb-4 mb-xxl-0 img-fluid d-block mx-auto lazyload mt-3">
+                    </div>
+                    <div class="col-4 col-xxl-2">
+                        <img width="182" height="162" data-src="https://aws-origin.image-tech-storage.com/playojo.co.uk/images/home/new-section/awards/slotssite-2021.png?v=1739871529" class="mb-4 mb-xxl-0 img-fluid d-block mx-auto lazyload mt-3">
+                    </div>
+                    <div class="col-4 col-xxl-2">
+                        <img width="182" height="162" data-src="https://aws-origin.image-tech-storage.com/playojo.co.uk/images/home/new-section/awards/bingo-2021.png?v=1739871529" class="mb-4 mb-xxl-0 img-fluid d-block mx-auto lazyload mt-3">
+                    </div>
+                    <div class="col-4 col-xxl-2">
+                        <img width="182" height="162" data-src="https://aws-origin.image-tech-storage.com/playojo.co.uk/images/home/new-section/awards/socialmedia-2021.png?v=1739871529" class="mb-4 mb-xxl-0 img-fluid d-block mx-auto lazyload mt-3">
+                    </div>
+
+
+
+                    <div class="col-4 col-xxl-2">
+                        <img width="182" height="162" data-src="https://aws-origin.image-tech-storage.com/playojo.co.uk/images/home/new-section/awards/egr-2021.png?v=1739871529" class="mb-4 mb-xxl-0 img-fluid d-block mx-auto lazyload mt-3">
+                    </div>
+                    <div class="col-4 col-xxl-2">
+                        <img width="182" height="162" data-src="https://aws-origin.image-tech-storage.com/playojo.co.uk/images/home/new-section/awards/sbc-2019.png?v=1739871529" class="mb-4 mb-xxl-0 img-fluid d-block mx-auto lazyload mt-3">
+                    </div>
+                    <div class="col-4 col-xxl-2">
+                        <img width="182" height="162" data-src="https://aws-origin.image-tech-storage.com/playojo.co.uk/images/home/new-section/awards/meister-2017.png?v=1739871529" class="mb-4 mb-xxl-0 img-fluid d-block mx-auto lazyload mt-3">
+                    </div>
+                    <div class="col-4 col-xxl-2">
+                        <img width="182" height="162" data-src="https://aws-origin.image-tech-storage.com/playojo.co.uk/images/home/new-section/awards/egr-2017.png?v=1739871529" class="mb-4 mb-xxl-0 img-fluid d-block mx-auto lazyload mt-3">
+                    </div>
+                    <div class="col-4 col-xxl-2">
+                        <img width="182" height="162" data-src="https://aws-origin.image-tech-storage.com/playojo.co.uk/images/home/new-section/awards/igaming-2017.png?v=1739871529" class="mb-4 mb-xxl-0 img-fluid d-block mx-auto lazyload mt-3">
+                    </div>
+                </div>
+            </div>      
+        </div>
+    </div>
+</div>
+   
+<div id="app-container"></div><div class="mt-2 pt-6 pb-6 logos-section">
+  <div class="container-fluid">
+      <div class="row">
+          <div class="col-12">
+              <son-license-logos></son-license-logos>
+          </div>
+      </div>
+  </div>
+</div>
+<div class="footer pb-5">
+  <div class="container">
+      <div class="row g-0">
+          <div class="col-12 border-bottom footer-links d-flex text-center justify-content-between pt-3 pb-3 pt-md-5 pb-md-5">
+              <a href="/games/" target="_blank">GAMES</a>
+              <a href="/banking/" target="_blank">BANKING</a>
+              <a href="/responsible-gaming/" target="_blank">SAFER GAMBLING</a>
+              <a href="https://www.egamingonline.com" target="_blank">AFFILIATES</a>
+               
+              <a href="/software/" target="_blank">SOFTWARE PROVIDERS</a>
+              <a href="/game-directory/" target="_blank">GAME & SLOT REVIEWS</a>
+          </div>
+          <div class="col-12 border-bottom footer-links d-flex text-center justify-content-md-evenly pt-3 pb-3 pt-md-5 pb-md-5">
+              <a href="/privacy-policy/" target="_blank">PRIVACY POLICY</a>
+              <a href="/reward-policy/" target="_blank">Rewards and Game Play Policy</a>
+              <a href="/terms-conditions/" target="_blank">TERMS AND CONDITIONS</a>
+          </div>
+          <div class="col-12 border-bottom footer-social pb-3 pb-md-3 pt-md-5 order-1">
+              <div class="row align-items-center">
+                  <div class="col-12 col-md-4 order-1 order-md-0 d-flex align-items-center justify-content-center justify-content-md-start">
+                      <h3 class="m-0">Follow us on</h3>
+                      <a href="https://www.facebook.com/PlayOJO-338689659834309/?fref=ts" target="_blank" class="ml-2 mr-2">
+                          <i class="ico ico-facebook"></i>
+                      </a>
+                      <a href="https://twitter.com/PlayOJO"target="_blank" class="ml-2 mr-2">
+                          <i class="ico ico-twitter-x"></i>
+                      </a>
+                      <a href="https://www.instagram.com/playojo/" target="_blank" class="ml-2 mr-2">
+                          <i class="ico ico-instagram"></i>
+                      </a>
+                                                <a href="https://www.youtube.com/channel/UCtmsHxghlcJCC_HwvsVrtVQ" target="_blank" class="ml-2 mr-2">
+                              <i class="ico ico-youtube"></i>
+                          </a>
+                                        </div>
+                  <div class="col-4 d-none d-md-block">
+                      <img data-src="https://aws-origin.image-tech-storage.com/playojo.co.uk/images/footer/ssl.png?v=1739871529" class="lazyload img-fluid d-block mx-auto">
+                  </div>
+                  <div class="col-12 col-md-4 order-0 order-md-2">
+                      <div class="row">
+                          <div class="col-12 d-flex align-items-center justify-content-center justify-content-md-end">
+                              <h3 class="m-0">Like Apps? Love these</h3>
+                                                                <a href="/mobile/" rel="nofollow" class="ml-2 mr-2">
+                                      <i class="ico ico-apple"></i>
+                                  </a>
+                                                                                              <a href="/mobile/" rel="nofollow" class="ml-2 mr-2">
+                                      <i class="ico ico-android"></i>
+                                  </a>
+                                                        </div>
+                      </div>
+                                        </div>
+              </div>
+          </div>
+          <div class="col-12 footer-license order-0 order-md-2 text-center pt-3 pb-3 pt-md-0 pb-md-0">
+              <p>Trademark ™ 2025 PlayOJO. All rights reserved.</p>
+                                <div class="col-12">
+                      <div son-ce="son-license-text">This site’s operations are regulated by the Malta Gaming Authority and is operated by SkillOnNet Ltd, Office 1/5297 Level G, Quantum House, 75, Abate Rigord Street, Ta’ Xbiex, XBX 1120, Malta, under the gaming license issued by the Malta Gaming Authority (license number MGA/CRP/171/2009/01) issued on 1 August 2018.<br><br><a href="https://son-direct.com/?appName=PlayOJO&langID=1&name=responsible_gaming">Gambling can be addictive, please play responsibly.</a></br></div>
+                  </div>
+                                      </div>
+          <div class="col-12 border-bottom pt-5 pb-5 footer-payments d-none d-md-block order-0">
+              <div class="row align-items-center"> 
+                  <son-payments></son-payments>                           
+                                </div>
+          </div>
+          <div class="col-12 footer-providers d-none d-md-block order-1 pt-5">
+              <div class="row align-items-center mt-4">
+                  <div class="col">                                
+                     <img data-src="https://aws-origin.image-tech-storage.com/playojo.co.uk/images/footer/game-providers/new/bragg.png?v=1739871529" class="img-fluid d-block mx-auto lazyload">
+                  </div>
+                  <div class="col">                                
+                     <img data-src="https://aws-origin.image-tech-storage.com/playojo.co.uk/images/footer/game-providers/new/peter-and-sons.png?v=1739871529" class="img-fluid d-block mx-auto lazyload">
+                  </div>
+                  <div class="col">                                
+                    <img data-src="https://aws-origin.image-tech-storage.com/playojo.co.uk/images/footer/game-providers/new/BigTimeGaming.png?v=1739871529" class="img-fluid d-block mx-auto lazyload">
+                 </div>
+                  <div class="col">                                
+                      <img data-src="https://aws-origin.image-tech-storage.com/playojo.co.uk/images/footer/game-providers/new/Blueprint.png?v=1739871529" class="img-fluid d-block mx-auto lazyload">
+                  </div>
+                  <div class="col">
+      <a href="/software/elk-studios-slots/">
+        <img data-src="https://aws-origin.image-tech-storage.com/playojo.co.uk/images/footer/game-providers/new/ELKStudios.png?v=1739871529" class="img-fluid d-block mx-auto lazyload">
+      </a>
+                  </div>
+                  <div class="col">
+                      <a href="/software/evolution-gaming-live/">
+                          <img data-src="https://aws-origin.image-tech-storage.com/playojo.co.uk/images/footer/game-providers/new/EvolutionGaming.png?v=1739871529" class="img-fluid d-block mx-auto lazyload">
+                      </a>
+                  </div>
+                  <div class="col">
+                      <img data-src="https://aws-origin.image-tech-storage.com/playojo.co.uk/images/footer/game-providers/new/Eyecon.png?v=1739871529" class="img-fluid d-block mx-auto lazyload">
+                  </div>
+
+              </div>
+              <div class="row align-items-center mt-4">
+                  <div class="col">
+                      <img data-src="https://aws-origin.image-tech-storage.com/playojo.co.uk/images/footer/game-providers/new/GamesGlobal.png?v=1739871529" class="img-fluid d-block mx-auto lazyload">
+                  </div>
+                  <div class="col">
+                      <img data-src="https://aws-origin.image-tech-storage.com/playojo.co.uk/images/footer/game-providers/new/GVG.png?v=1739871529" class="img-fluid d-block mx-auto lazyload">
+                  </div>
+                  <div class="col">
+                      <img data-src="https://aws-origin.image-tech-storage.com/playojo.co.uk/images/footer/game-providers/new/IGT.png?v=1739871529" class="img-fluid d-block mx-auto lazyload">
+                  </div>
+                  <div class="col">
+                      <img data-src="https://aws-origin.image-tech-storage.com/playojo.co.uk/images/footer/game-providers/new/Inspired.png?v=1739871529" class="img-fluid d-block mx-auto lazyload">
+                  </div>
+                  <div class="col">
+                      <img data-src="https://aws-origin.image-tech-storage.com/playojo.co.uk/images/footer/game-providers/new/LightandWonder.png?v=1739871529" class="img-fluid d-block mx-auto lazyload">
+                  </div>
+                  <div class="col">
+      <a href="/software/netent-slots/">
+        <img data-src="https://aws-origin.image-tech-storage.com/playojo.co.uk/images/footer/game-providers/new/NetEnt.png?v=1739871529" class="img-fluid d-block mx-auto lazyload">
+      </a>
+                  </div>
+                 
+             
+              </div>
+              <div class="row align-items-center mt-4">
+ <div class="col">
+      <a href="/software/playngo-slots/">
+        <img data-src="https://aws-origin.image-tech-storage.com/playojo.co.uk/images/footer/game-providers/new/PlayNGo.png?v=1739871529" class="img-fluid d-block mx-auto lazyload">
+      </a>
+                  </div>
+                  <div class="col">
+                        <img data-src="https://aws-origin.image-tech-storage.com/playojo.co.uk/images/footer/game-providers/new/PlayTech.png?v=1739871529" class="img-fluid d-block mx-auto lazyload">
+                  </div>
+                  <div class="col">
+      <a href="/software/pragmatic-play-slots/">
+        <img data-src="https://aws-origin.image-tech-storage.com/playojo.co.uk/images/footer/game-providers/new/PragmaticPlay.png?v=1739871529" class="img-fluid d-block mx-auto lazyload">
+      </a>
+                  </div>
+                  <div class="col">
+                      <img data-src="https://aws-origin.image-tech-storage.com/playojo.co.uk/images/footer/game-providers/new/PushGaming.png?v=1739871529" class="img-fluid d-block mx-auto lazyload">   
+                  </div>
+                  <div class="col">
+                      <img data-src="https://aws-origin.image-tech-storage.com/playojo.co.uk/images/footer/game-providers/new/RedTiger.png?v=1739871529" class="img-fluid d-block mx-auto lazyload">    
+                  </div>                                
+                         
+              </div>
+              <div class="row align-items-center mt-4 mb-4 justify-content-center">
+                  <div class="col-2">
+                      <img data-src="https://aws-origin.image-tech-storage.com/playojo.co.uk/images/footer/game-providers/new/RelaxGaming.png?v=1739871529" class="img-fluid d-block mx-auto lazyload">
+                  </div>  
+                  <div class="col-2">
+                    <a href="/bingo/slingo/">
+                        <img data-src="https://aws-origin.image-tech-storage.com/playojo.co.uk/images/footer/game-providers/new/Slingo.png?v=1739871529" class="img-fluid d-block mx-auto lazyload">
+                    </a>
+                  </div>
+                  <div class="col-2">
+                      <img data-src="https://aws-origin.image-tech-storage.com/playojo.co.uk/images/footer/game-providers/new/Wazdan.png?v=1739871529" class="img-fluid d-block mx-auto lazyload">
+                  </div>
+                  <div class="col-2">
+                      <a href="/software/yggdrasil-slots/">
+                          <img data-src="https://aws-origin.image-tech-storage.com/playojo.co.uk/images/footer/game-providers/new/Yggdrasil.png?v=1739871529" class="img-fluid d-block mx-auto lazyload">
+                      </a>     
+                  </div>
+              </div>
+          </div>
+          <div class="row align-items-center mt-md-4 order-md-1 text-center">
+                  <div class="col-12">
+                      <p>Availability depends on your country</p>
+                                            <p>PlayOJO sister sites: <a href="https://www.playuzu.es/" target="_blank" rel="noopener noreferrer" style="text-decoration: underline;">Casino PlayUZU España</a>, <a href="https://www.playuzu.mx/" target="_blank" rel="noopener noreferrer" style="text-decoration: underline;">Casino PlayUZU México</a>, <a href="https://www.playojo.com/ca/" target="_blank" rel="noopener noreferrer" style="text-decoration: underline;">PlayOJO Casino Canada</a>, <a href="https://www.playojo.com/ja/" target="_blank" rel="noopener noreferrer" style="text-decoration: underline;">PlayOJO Japan オンラインカジノ</a></p>
+                                        </div>
+              </div>
+      </div>
+  </div>
+</div>
+</div>
+    <script type="text/javascript" src="https://aws-origin.image-tech-storage.com/websites/playojo.co.uk/pages/home/script.js?v=1739871529" defer></script>
+
+<script type="text/javascript">
+var license_sid = {"Malta":"caa714739fadb083cec06025314640e7","Swedish":"0db051bd67d433a52ec697b59a778bad","Denmark":"b6283364d112c046c2e94cc3191fb676","UK":"4c505315d84ec1dace79b6bd97c4ad07","Ontario":"29becd77c809a2f6844e84f303479a7a","titanium":"caa714739fadb083cec06025314640e7"};
+var configObject = {
+					skin: "PlayOJO",
+					domain: "playojo.co.uk",
+					license: "Malta",
+					smart_license: "Malta",
+					dynid: "no_zone",
+					license_sid: {"Malta":"caa714739fadb083cec06025314640e7","Swedish":"0db051bd67d433a52ec697b59a778bad","Denmark":"b6283364d112c046c2e94cc3191fb676","UK":"4c505315d84ec1dace79b6bd97c4ad07","Ontario":"29becd77c809a2f6844e84f303479a7a","titanium":"caa714739fadb083cec06025314640e7"},
+					lang: "en",
+					country: "PH",
+					region: "00",
+					resDomain: "https://aws-origin.image-tech-storage.com/playojo.co.uk",
+					platform: "desktop",
+					userIsRegistered: false,
+					banners:{
+						url: 'https://promotions.safe-communication.com/herospace/',
+						position: 'hero',
+						platform: 2,
+						skin: "PlayOJO",
+						lang_id: 1,
+    					affiliate: "house_ojo0225",
+    					country: "PH"
+					},
+			        query: "",
+					gamesApi: "https://games.netdnstrace1.com?",
+					jackpotsApi: "https://service.safe-communication.com/jackpots/",
+					gamesUrl: "https://mobile.skilldnsproc.com/jsonDB/toBunddle/angular_games_malta_desktop.json?v="+Date.now(),
+					feed_url: "https://www.playeroffers.com/api.php",
+					payNPlay: (window.SON_CONFIG != undefined && window.SON_CONFIG.pnp != undefined ? (window.SON_CONFIG.pnp.enabled && window.SON_CONFIG.pnp.payments.length > 0) : false),
+					isBingo: false,
+					dev: false,
+langMap: {"en":"English"}
+				};
+</script>
+
+			<script>
+				if(top!=self) {
+					var today = new Date();
+					today.setMinutes(today.getMinutes() + 1440);
+					var UTCstring = today.toUTCString();
+
+					document.cookie = "Aname=; expires=" + today + "; path=/; domain=playojo.co.uk";
+					document.cookie = "Zone_id=; expires=" + today + "; path=/; domain=playojo.co.uk";
+					document.cookie = "Dyn_id=; expires=" + today + "; path=/; domain=playojo.co.uk";
+
+					setTimeout(function(){
+						top.location.replace(document.location);
+					}, 500);
+
+					//~ alert("For security reasons, framing is not allowed; click OK to remove the frames.");
+				}
+			</script>
+
+<script>
+checkMaint();
+function checkMaint() {
+	var xhttp = new XMLHttpRequest();
+	xhttp.onreadystatechange = function() {
+		if (this.readyState == 4 && this.status == 200) {
+			var myObj = JSON.parse(this.responseText);
+			if(typeof myObj.msg != "undefined") {
+				var maint = 'https://www.playojo.com/maintenance.html';
+				window.location = maint.replace(/https:|http:/gi, "");
+			}
+		}
+	};
+	xhttp.open("GET", "https://maintenance.playeroffers.com/maintenance.php?site=playojo.co.uk&lang=en", true);
+	xhttp.send();
+}
+
+</script>
+
+
+				<script type="text/javascript">
+					if(typeof(license_sid) == 'undefined'){
+						var license_sid = {"Malta":"caa714739fadb083cec06025314640e7","Swedish":"0db051bd67d433a52ec697b59a778bad","Denmark":"b6283364d112c046c2e94cc3191fb676","UK":"4c505315d84ec1dace79b6bd97c4ad07","Ontario":"29becd77c809a2f6844e84f303479a7a","titanium":"caa714739fadb083cec06025314640e7"};
+					}
+					var license = "Malta";
+					var appName = "PlayOJO";
+					var aname = "house_ojo0225";
+					var zoneid = "none";
+					var dynid = "no_zone";
+					var geo = {
+						country: "PH",
+						region: "00",
+						city: "Makati City",
+					}
+					var geoExclude = [];
+				</script>
+							                    <script type="text/javascript">
+                        (function(){
+                            var s1 = document.createElement("script"),
+                                s0 = document.getElementsByTagName("script")[0];
+                            s1.async = true;
+                                                            s1.src = 'https://son-auth.netdnstrace1.com/api/'+window.SON_CONFIG.registration_token+'/config?lang=en&country=PH&region=00';
+                                                        s1.charset = 'UTF-8';
+                            s0.parentNode.insertBefore(s1, s0);
+                        })();
+                    </script>
+                								<script type="text/javascript">
+						function createCookie(name,value,days) {
+							if(days) {
+								var date = new Date();
+								date.setTime(date.getTime()+(days*60*60*1000));
+								var expires = "; expires="+date.toGMTString();
+							} else {
+								var expires = "";
+								document.cookie = name+"="+value+expires+"; path=/";
+							}
+						}
+
+						function readCookie(name) {
+							var nameEQ = name + "=";
+							var ca = document.cookie.split(";");
+							for(var i=0;i < ca.length;i++) {
+								var c = ca[i];
+								while (c.charAt(0)==" ") c = c.substring(1,c.length);
+								if(c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length,c.length);
+							}
+							return "";
+						}
+					</script>
+				
+																<script type="text/javascript">
+			var warning;
+			var restrictions_modal;
+			function warningClose(accept) {
+				if(accept) {
+					createCookie("PH_chk","1",0);
+				}
+					setTimeout(function(){restrictions_modal.close();},400);
+			}
+</script>
+			
+					
+<style type="text/css">
+		.restrictions-remodal {background: #d2eafd!important;padding: 20px;width: 650px;max-height: 600px;}
+		.mobile .restrictions-remodal {padding:10px;width: 100%;max-height: 650px;}
+		.mobile .restrictions-remodal p,.mobile .restrictions-remodal h1 {margin:0px!important;line-height:20px!important;width:100%!important;padding:0px!important;text-align:center;}
+		.mobile .restrictions-remodal div {padding:0px!important;margin:20px auto!important;width:98%!important;}
+</style>
+<son-cookie-consent
+                    device="desktop"
+                    country="PH"
+                    lang="en"
+                    skin="PlayOJO"
+                ></son-cookie-consent></body>
+</html>
